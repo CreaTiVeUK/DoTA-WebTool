@@ -1,0 +1,103 @@
+.tavern {
+  position: relative;
+  text-align: center;
+}
+.tavern img {
+    max-width: 100%;
+}
+.tavern-inside {
+    margin: 0 auto;
+    display: inline-block;
+}
+.tavern .tavern-column {
+  width: 33.33333%;
+  float: left;
+  width: 273px;
+  
+}
+.tavern .tavern-column.tavern-col-middle {
+   margin:0 7px;   
+}
+
+.tavern .tavern-hero {
+  display: block;
+  float: left;
+  
+  margin: 0 3px 3px 0;
+  position: relative;
+}
+.tavern-hero > img {
+    border: 3px solid #111;
+}
+.tavern .tavern-hero-action {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+left: -25px;
+
+width: 115px;
+opacity: 0;
+top: -14px;
+z-index: -1;
+}
+.tavern .tavern-hero-action img {
+    border: 1px solid #8fd5eb;
+}
+.tavern .tavern-hero:hover .tavern-hero-action {
+    display: block;
+    opacity: 1;
+    z-index: 25;
+    top: -14px;
+     -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+}
+.tavern-hero-ban {
+   z-index: 1;
+background: url('/public/img/hero_ban_bg.png') center center transparent;
+background-size: cover;
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+display: none;
+}
+.tavern-hero-ban-button {
+    display: block;
+background: #111;
+color: #8fd5eb;
+position: absolute;
+bottom: 0;
+right: 0;
+width: 51px;
+margin: 4px 2px;
+border-radius: 3px;
+border: 1px solid #8fd5eb;
+font-size: 12px;
+z-index: 50;
+}
+
+.tavern-hero-ban-button:hover {
+    color: #FF6B6B;
+border-color: #FF6B6B;
+
+}
+
+.tavern-hero-banned .tavern-hero-ban {
+    display: block;
+}
+
+.tavern-hero-banned > img {
+    opacity: 0.5;
+}
+
+.tavern-hero-active > .tavern-hero-action {
+    display: none !important;
+}
+.tavern-hero-active > img {
+    opacity: 0.25;
+}

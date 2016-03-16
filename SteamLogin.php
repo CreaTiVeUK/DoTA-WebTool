@@ -27,7 +27,7 @@
                                 echo "</form>";
                 }
             } elseif($openid->mode == 'cancel') {
-                /*If the mode equals to "cancel", that means the user has canceled the autehntication*/
+                /*If the mode equals to "cancel", that means the user has canceled the authentication*/
                 echo 'User has canceled authentication!';
             } else {
                 /*If the user has logged in succesfully, the following code is executed. The mode is validate*/
