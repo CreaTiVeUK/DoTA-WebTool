@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-<?php
-    include("db.php");
-?>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -57,41 +54,62 @@
               </nav>
             </div>
           </div>
-            
+           
 <div class="clearfix"></div>
-</div>
 	<div style="position: absolute;top:0;left: 0;right: 0;"><input class="search-input cap-tavern-search-hero" type="text" value="" name="hero_name" id="hero_name" autocomplete="off" placeholder="Enter hero name here"></div>
 	<div class="tavern">        
- <?php
-$CLASS = "tavern-hero"; 
-$SQL="select heroId, heroName, heroPicSmall, heroPicHover from heroes";
-//Create a new variable containing the execution of the SQL query i.e. select the records or get out
-$exeSQL=mysql_query($SQL) or die (mysql_error());
+<?php
+    /*** mysql hostname ***/
+    $hostname = 'localhost';
 
-while ($arrayhero=mysql_fetch_array($exeSQL))
-{
+    /*** mysql username ***/
+    $username = 'root';
+
+    /*** mysql password ***/
+    $password = '';
+
+    try {
+    $dbh = new PDO("mysql:host=$hostname;dbname=dota", $username, $password);
+
+    $CLASS = "tavern-hero";
+    $Hashtag = "#";
+    $SmallIMG = "tavern-hero-img-small";
+    $LargeIMG = "tavern-hero-img-large true-highligh";
+    $HeroAction = "tavern-hero-action";
+    $SQL="SELECT * FROM heroes";
+    $Counter = 0;
+
+    foreach ($dbh->query($SQL) as $hero)
+        {
 	echo "<br>";
+        <div class="tavern-column tavern-col-left">
+                <div class="tavern-column tavern-col-middle">
+                <div class="tavern-column tavern-col-right">
+                <div class="tavern-column tavern-col-left">
+                <div class="tavern-column tavern-col-middle">
+                <div class="tavern-column tavern-col-right">
 	//make each product a link to the next page and pass the product id to the next page by URL
 	//concatenate a string of characters u_prodid which carries the value of the actual id
-	echo $arrayhero['heroName'];
-	echo "<br>";
-	echo "<img src=images/".$arrayhero['heroPicHover'].">";
-        echo "<br>";
-	echo "<img src=images/".$arrayhero['heroPicSmall'].">";
-	echo "<br><br>";
-	echo "<hr>";
-        echo "<a id=".$arrayhero['heroId']." class=".$CLASS." data-hero-id=".$arrayhero['heroId']." href= ""#"" data-hero-uri="earthshaker" data-hero-name="Earthshaker">;
-			<img class="tavern-hero-img-small" src="/public/images/dota2/heroes/earthshaker_sb.png">
-			<div class="tavern-hero-ban"></div>
-			<div class="tavern-hero-action">
-				<div class="tavern-hero-ban"></div>
-				<img class="tavern-hero-img-large true-highlight" src="Dota-Heroes-Hover/earthshaker_hphover.png">
-				<div class="tavern-hero-ban-button">Ban</div>
-			</div>
-		</a>
-}
+        echo "<a id=tavern_hero_".$hero['heroId']." class=".$CLASS." data-hero-id=".$hero['heroId']." href=".$Hashtag." data-hero-uri=".$hero['heroURI']." data-hero-name=".$hero['heroName'].">";
+			echo "<img class=".$SmallIMG." src=Dota-Heroes-Small/".$hero['heroPicSmall'].">";
+			echo "<div class=".$HeroAction.">";
+				echo "<img class=".$LargeIMG." src=Dota-Heroes-Hover/".$hero['heroPicHover'].">";
+			echo "</div>";
+		echo "</a>";
+                
+        }
+    $dbh = null;
+        }
+    catch(PDOException $e)
+        {
+        echo $e->getMessage();
+        }
 ?>
-
+            </div> 
+             </div>
+          </div>
+         </div>
+    <!--        
 
 <div class="clearfix"></div>
 </div>
@@ -1121,10 +1139,11 @@ while ($arrayhero=mysql_fetch_array($exeSQL))
         </div>
 
       </div>
+      -->
 
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script>window.jQuery || document.write('<script src="Styles/assets/js/vendor/jquery.min.js"><\/script>');</script>
     <script src="Styles/dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="Styles/assets/js/ie10-viewport-bug-workaround.js"></script>
