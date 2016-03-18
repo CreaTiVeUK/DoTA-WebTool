@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php
+    include("db.php");
+?>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -7,17 +10,16 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="stylesheet" type="text/css" href="style.css" />
     <link rel="icon" href="Styles/favicon.ico">
 
     <title>Template for DoTA-WebTool</title>
-    
-    <link rel="stylesheet" type="text/css" href="style.css" />
 
     <!-- Bootstrap core CSS -->
     <link href="Styles/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="Styles/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+     <link href="Styles/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="cover.css" rel="stylesheet">
@@ -54,90 +56,9 @@
               </nav>
             </div>
           </div>
-            <div class="cap-col-middle">
-		<!-- <ul class="cap-tabs-nav">
-			<li class="active"><a href="#">Рекомендации</a></li>
-			<li><a href="#">Карта</a></li>
-			<li><a href="#">Связки</a></li> 
-		</ul>-->
-		<div class="cap-tavern-modal">
-			<div class="cap-tavern true-highlight">
-	<div class="tavern-header" style="height: 90px;">
-	<a class="tavern-hide" href="#"><i class="close-icon"></i></a>
-	
-	<!-- <form class="tavern-search-form">
-		<input type="text" name="hero_name">
-	</form> -->
 
-<?php
-    /*** mysql hostname ***/
-    $hostname = 'localhost';
-
-    /*** mysql username ***/
-    $username = 'root';
-
-    /*** mysql password ***/
-    $password = '';
-
-    try {
-    $dbh = new PDO("mysql:host=$hostname;dbname=dota", $username, $password);
-
-    $Hashtag = "#";
-    $Value = "";
-    $SQL="SELECT * FROM heroes";
-    $Counter = 0;
-    
-    echo "<div class=inner cover>";           
-    echo "<div class=clearfix></div>";
-    echo "</div>";
-    echo "<div style=position: absolute;top:0;left: 0;right: 0;><input class=search-input cap-tavern-search-hero type='text' value='' name=hero_name id=hero_name autocomplete='off' placeholder='Enter hero name here'></div>";
-    echo "<div class=tavern>";     
-    foreach ($dbh->query($SQL) as $hero)
-        {
-        if ($Counter == 20) {
-            echo "<div class=tavern-column tavern-col-left>";
-        }
-        elseif ($Counter == 40 || $Counter == 91) {
-            echo "</div>";
-            echo "<div class=tavern-column tavern-col-middle>";           
-        }
-        elseif ($Counter == 60 || $Counter == 111) {
-            echo "</div>";
-            echo "<div class=tavern-column tavern-col-right>";
-        }
-        elseif ($Counter == 75) {
-            echo "</div>";
-            echo "<div class=tavern-column tavern-col-left>"; 
-        }
-	//make each product a link to the next page and pass the product id to the next page by URL
-	//concatenate a string of characters u_prodid which carries the value of the actual id
-        echo "<a id=tavern_hero_".$hero['heroId']." class=tavern-hero data-hero-id=".$hero['heroId']." href=".$Hashtag." data-hero-uri=".$hero['heroURI']." data-hero-name=".$hero['heroName'].">";
-			echo "<div class=tavern-hero-ban></div>";
-                        echo "<img class=tavern-hero-img-small src=Dota-Heroes-Small/".$hero['heroPicSmall'].">";
-			echo "<div class=tavern-hero-action>";
-				echo "<div class=tavern-hero-ban></div>";
-                                echo "<img class=tavern-hero-img-large true-highligh src=Dota-Heroes-Hover/".$hero['heroPicHover'].">";
-                            echo "</div>";
-		echo "</a>";
-                $Counter++;               
-        }
-                echo "</div>";
-            echo "<div class=clearfix></div>";
-        echo "</div>";
-        $dbh = null;
-        }
-    catch(PDOException $e)
-        {
-        echo $e->getMessage();
-        }
-?>
-        </div> 
-    </div>
-</div> 
-                </div>
-          </div>
-<!--
-<div class="clearfix"></div>
+          <div class="inner cover">
+            <div class="clearfix"></div>
 </div>
 	<div style="position: absolute;top:0;left: 0;right: 0;"><input class="search-input cap-tavern-search-hero" type="text" value="" name="hero_name" id="hero_name" autocomplete="off" placeholder="Enter hero name here"></div>
 	<div class="tavern">
@@ -1165,11 +1086,16 @@
         </div>
 
       </div>
-      -->
+          </div>
 
+          <div class="mastfoot">
+            <div class="inner">
+              <p> Testing the footer </p>
+            </div>
+          </div>
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="Styles/assets/js/vendor/jquery.min.js"><\/script>');</script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="Styles/dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="Styles/assets/js/ie10-viewport-bug-workaround.js"></script>
