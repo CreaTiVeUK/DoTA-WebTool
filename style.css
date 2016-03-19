@@ -12,7 +12,8 @@
 .tavern .tavern-column {
   width: 33.33333%;
   float: left;
-  width: 273px;
+  width: 289px;
+  height: 310px;
   
 }
 .tavern .tavern-column.tavern-col-middle {
@@ -23,7 +24,7 @@
   display: block;
   float: left;
   
-  margin: 0 3px 3px 0;
+  margin: 0px 4px 4px 0px;
   position: relative;
 }
 .tavern-hero > img {
@@ -55,46 +56,6 @@ z-index: -1;
     -o-transition: all 0.25s ease;
     transition: all 0.25s ease;
 }
-.tavern-hero-ban {
-   z-index: 1;
-background: url('/public/img/hero_ban_bg.png') center center transparent;
-background-size: cover;
-position: absolute;
-top: 0;
-bottom: 0;
-left: 0;
-right: 0;
-display: none;
-}
-.tavern-hero-ban-button {
-    display: block;
-background: #111;
-color: #8fd5eb;
-position: absolute;
-bottom: 0;
-right: 0;
-width: 51px;
-margin: 4px 2px;
-border-radius: 3px;
-border: 1px solid #8fd5eb;
-font-size: 12px;
-z-index: 50;
-}
-
-.tavern-hero-ban-button:hover {
-    color: #FF6B6B;
-border-color: #FF6B6B;
-
-}
-
-.tavern-hero-banned .tavern-hero-ban {
-    display: block;
-}
-
-.tavern-hero-banned > img {
-    opacity: 0.5;
-}
-
 .tavern-hero-active > .tavern-hero-action {
     display: none !important;
 }
