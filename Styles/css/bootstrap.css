@@ -238,6 +238,15 @@ th {
   h3 {
     page-break-after: avoid;
   }
+  .blue {
+      color:#1a53ff;
+  }
+  .red {
+      color:#e60000     
+  }
+  .green {
+      color:#00e600;    
+  }
   .navbar {
     display: none;
   }
@@ -2550,7 +2559,8 @@ output {
 }
 .form-control {
   display: block;
-  width: 100%;
+  width: 200px;
+  position: absolute;
   height: 34px;
   padding: 6px 12px;
   font-size: 14px;
