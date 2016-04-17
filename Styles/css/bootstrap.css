@@ -238,14 +238,15 @@ th {
   h3 {
     page-break-after: avoid;
   }
-  .blue {
-      color:#1a53ff;
+  .ChangingImage {
+      display: block;
+  position: absolute;
+  
+  margin: 0px 4px 4px 0px;
+  position: relative;
   }
-  .red {
-      color:#e60000     
-  }
-  .green {
-      color:#00e600;    
+  .textName{
+      
   }
   .navbar {
     display: none;
