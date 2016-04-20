@@ -9,6 +9,10 @@
     margin: 0 auto;
     display: inline-block;
 }
+.tavern-alignment{
+    position: relative;
+    left: 40px;
+}
 .tavern .tavern-column {
   width: 33.33333%;
   float: left;

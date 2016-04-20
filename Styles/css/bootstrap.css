@@ -34,6 +34,42 @@ video {
   display: inline-block;
   vertical-align: baseline;
 }
+div.Attribute{
+    font-size:18px;
+    font-family: Droid Serif; 
+}
+div.ScreenChange{
+    float:left;
+    display:none;
+}
+.Buttons-Back{
+    height: 50px;
+    width: 80px;
+    display: none;
+    margin: 5px 0px;
+    border: 3px solid black;
+}
+div.Name {
+    font-weight: bold;
+    margin: -50px 0px;
+    color:#C0C0C0;
+    font-size:50px;
+    font-family: Droid Serif; 
+}
+.ChangingImage {
+    margin: -100px 5px;
+    border: 3px solid black;
+}
+div.buttonMargin {
+    margin: -68px -5px;
+}
+.Buttons {
+    height: 50px;
+    width: 80px;
+    display: block;
+    margin: 5px 0px;
+    border: 3px solid black;
+}
 audio:not([controls]) {
   display: none;
   height: 0;
@@ -237,16 +273,6 @@ th {
   h2,
   h3 {
     page-break-after: avoid;
-  }
-  .ChangingImage {
-      display: block;
-  position: absolute;
-  
-  margin: 0px 4px 4px 0px;
-  position: relative;
-  }
-  .textName{
-      
   }
   .navbar {
     display: none;
@@ -2566,8 +2592,8 @@ output {
   padding: 6px 12px;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #555;
-  background-color: #fff;
+  color: #000000;
+  background-color: #C0C0C0;
   background-image: none;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -2584,14 +2610,14 @@ output {
           box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
 }
 .form-control::-moz-placeholder {
-  color: #999;
+  color: #000000;
   opacity: 1;
 }
 .form-control:-ms-input-placeholder {
-  color: #999;
+  color: #000000;
 }
 .form-control::-webkit-input-placeholder {
-  color: #999;
+  color: #000000;
 }
 .form-control::-ms-expand {
   background-color: transparent;

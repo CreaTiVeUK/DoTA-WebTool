@@ -45,7 +45,6 @@ body {
           box-shadow: inset 0px 0px 0px rgba(0,0,0,0.5);
 }
 .site-wrapper-inner {
-  display: table-cell;
   vertical-align: top;
 }
 .cover-container {
@@ -63,8 +62,10 @@ body {
  * Header
  */
 .masthead-brand {
+  float:left;
+  margin-left:  -48px;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: -5px;
 }
 
 .masthead-nav > li {
