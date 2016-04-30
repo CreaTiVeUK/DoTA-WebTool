@@ -1,0 +1,338 @@
+.tavern {
+    position: relative;
+    text-align: center;
+}
+.tavern img {
+    max-width: 100%;
+}
+.tavern-inside {
+    margin: 0 auto;
+    display: inline-block;
+}
+.tavern-alignment {
+    position: relative;
+    left: 40px;
+}
+.tavern .tavern-column {
+    width: 33.33333%;
+    float: left;
+    width: 289px;
+    height: 310px;
+}
+.tavern .tavern-column.tavern-col-middle {
+    margin: 0 7px;
+}
+.tavern .tavern-hero {
+    cursor: pointer;
+    display: block;
+    float: left;
+    margin: 0px 4px 4px 0px;
+    position: relative;
+}
+.tavern-hero > img {
+    border: 3px solid #111;
+}
+.tavern .tavern-hero-action {
+    position: absolute;
+    top: 0;
+    left: 0;
+    left: -25px;
+    width: 115px;
+    opacity: 0;
+    top: -14px;
+    z-index: -1;
+}
+.tavern .tavern-hero-action img {
+    border: 1px solid #8fd5eb;
+}
+.tavern .tavern-hero:hover .tavern-hero-action {
+    display: block;
+    opacity: 1;
+    z-index: 25;
+    top: -14px;
+    -webkit-transition: all 0.25s ease;
+    -moz-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+}
+.tavern-hero-active > .tavern-hero-action {
+    display: none !important;
+}
+.tavern-hero-active > img {
+    opacity: 0.25;
+}
+/*Overlay referenced from: How to create a full screen overlay navigation (no date) 
+Available at: http://www.w3schools.com/howto/howto_js_fullscreen_overlay.asp (Accessed: 19 March 2016).*/
+/* The Overlay (background) */
+
+.overlay {
+    /* Height & width depends on how you want to reveal the overlay (see JS below) */
+    
+    overflow: hidden;
+    background-image: url("Background.jpg");
+    background-size: 850px 506px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 0;
+    width: 100%;
+    position: absolute;
+    /* Stay in place */
+    
+    z-index: 1;
+    /* Sit on top */
+    
+    left: 0;
+    top: 0;
+    background-color: rgb(0, 0, 0);
+    /* Black fallback color */
+    
+    background-color: rgba(0, 0, 0, 0.9);
+    /* Black w/opacity */
+    
+    overflow-x: hidden;
+    /* Disable horizontal scroll */
+    
+    transition: 0.5s;
+    /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+/* Position the content inside the overlay */
+
+.overlay-content {
+    top: 25%;
+    /* 25% from the top */
+    
+    width: 100%;
+    /* 100% width */
+    
+    text-align: center;
+    /* Centered text/links */
+    
+    margin-top: 150px;
+    /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+.overlay-content2 {
+    margin-top: 0px;
+    /* 30px top margin to avoid conflict with the close button on smaller screens */
+    
+    margin-left: 430px;
+    font-size: 19px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: left;
+}
+.overlay-content2-Screen2 {
+    margin-top: 20px;
+    /* 30px top margin to avoid conflict with the close button on smaller screens */
+    
+    margin-left: 430px;
+    font-size: 19px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: left;
+}
+.overlay-content2-Screen3 {
+    margin-top: 20px;
+    /* 30px top margin to avoid conflict with the close button on smaller screens */
+    
+    margin-left: 430px;
+    font-size: 19px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: left;
+}
+.overlay-content2-Screen4 {
+    margin-top: 0px;
+    /* 30px top margin to avoid conflict with the close button on smaller screens */
+    
+    margin-left: 430px;
+    font-size: 19px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: left;
+}
+/* The navigation links inside the overlay */
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    /* Display block instead of inline */
+    
+    transition: 0.3s;
+    /* Transition effects on hover (color) */
+}
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+
+@media screen and (max-height: 450px) {
+    .overlay a {
+        font-size: 20px
+    }
+    .closebtn {
+        font-size: 40px !important;
+        top: 15px;
+        right: 35px;
+    }
+}
+/* Scrollbar styles referenced from:
+CSS Tutorial (no date) Available at: http://www.w3schools.com/css/ (Accessed: 19 March 2016).*/
+
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+::-webkit-scrollbar-track {
+    border: 1px solid yellowgreen;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: yellowgreen;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #88ba1c;
+}
+div.steamButton {
+    float: right;
+    margin: 0px 80px;
+}
+div.info {
+    text-align: left;
+}
+span.PlusSign {
+    font-weight: bold;
+    font-size: 14px;
+    color: #00cc00;
+}
+div.CenterTextHeroDescription {
+    border: 1px solid black;
+    padding: 5px;
+    width: 1000px;
+    height: 120px;
+    overflow: scroll;
+    overflow-x: hidden;
+    margin-top: -35px;
+    margin-right: 0px;
+    margin-left: 70px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+div.CenterText {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-top: -35px;
+    margin-left: 145px;
+    border: 1px solid black;
+    padding: 5px;
+    width: 925px;
+    height: 80px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+div.combo {
+    font-family: Droid Serif;
+    float: left;
+    font-size: 35px;
+    margin: 0px 0px;
+    font-weight: bold;
+    font-family: Droid Serif;
+    color: #C0C0C0;
+}
+div.Attribute {
+    font-size: 18px;
+    font-family: Droid Serif;
+}
+.Buttons {
+    cursor: pointer;
+    height: 51px;
+    width: 81px;
+    display: none;
+    margin: 5px 0px;
+    border: 3px solid black;
+}
+span.ScreenChange {
+    margin-top: 0px;
+    float: left;
+    display: none;
+}
+span.Buttons-Back {
+    cursor: pointer;
+    height: 51px;
+    width: 81px;
+    display: none;
+    margin: 5px 0px;
+    border: 3px solid black;
+}
+span.DimmedButtons {
+    cursor: pointer;
+    height: 51px;
+    width: 81px;
+    display: block;
+    margin: 5px 0px;
+    border: 3px solid black;
+}
+div.Name {
+    font-weight: bold;
+    margin: -50px 0px;
+    color: #C0C0C0;
+    font-size: 50px;
+    margin-left: -10px;
+    font-family: Droid Serif;
+}
+.ChangingImage {
+    cursor: pointer;
+    margin: -100px 5px;
+    border: 3px solid black;
+}
+div.buttonMargin {
+    margin: -68px -5px;
+}
+.ButtonTutorial {
+    cursor: pointer;
+    height: 52px;
+    width: 111px;
+    display: block;
+    border: 3px solid black;
+    margin-top: -70px;
+    margin-left: 150px;
+    margin-bottom: 23px;
+}
+.closebtn {
+    margin-top: 70px;
+    margin-left: 700px;
+    position: absolute;
+}
+.closebtn2 {
+    margin-left: 700px;
+    margin-top: 8px;
+    position: absolute;
+}
+.closebtn3 {
+    margin-left: 700px;
+    margin-top: 37px;
+    position: absolute;
+}
+.closebtn4 {
+    margin-left: 700px;
+    margin-top: -10px;
+    position: absolute;
+}
+.Backbtn {
+    cursor: pointer;
+    margin-left: 450px;
+    margin-top: 10px;
+    position: absolute;
+}
+.Backbtn2 {
+    cursor: pointer;
+    margin-left: 450px;
+    margin-top: 39px;
+    position: absolute;
+}
+.Nextbtn {
+    cursor: pointer;
+    margin-left: 1100px;
+    margin-top: 53px;
+    position: absolute;
+}
+.Nextbtn2 {
+    cursor: pointer;
+    margin-left: 1100px;
+    margin-top: 5px;
+    position: absolute;
+}

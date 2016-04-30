@@ -1,0 +1,889 @@
+[
+      {
+        "name": "npc_dota_hero_antimage",
+        "id": 1,
+        "localized_name": "antimage",
+        "HeroDescription": "Key moment to play Anti-mage well is right item order. Before we go to lane we should get Quelling Blade that will help us to last hit better. Tango and Healing Salve will restore our HP in case of emergency, and 3x Iron Branch is a great choice when we are low on money but not on slots. <br/><br/> Our main goal is late carry, and we should think about that, that means we don’t play aggressively yet, and try to farm as much as we can. You should last hit enemy’s creeps because our support should deny our creeps. At the beginning we should go on easy lane (top for the dire and Bottom for the radiant) with 1 or 2 supports. <br/><br/>First item should be Ring of Health that will give us regeneration, and will be useful for Battle Fury later. Next item can be Poor Man's Shield that will somehow solve our problems with survivability on low levels, or Boots of Speed. After we get all those items, we can send our support to roam or gank, because we not feel much stronger and can survive harass. <br/><br/>On level 6 we can try to kill the enemy, it’s very easy to do if you send your support in front, and enemy uses his procast, then we blink closer and use Mana Void + our support uses his control, and we make a kill. Anti-mage is weak hero in the early game, and if we play 2v2 or 3v3 we should think of changing the lane to play 2v1 with our support against solo player.",
+        "Goodwith": "invoker",
+        "GoodDescription": "Tornado>EMP into Mana Void is a very large amount of AoE damage ( 1444 AFTER standard magic resistance reduction if all 3 spells hit). Also, few heroes are as effective at stalling the early pushes that undermine an Antimage draft as a Wex Invoker."
+      },
+      {
+        "name": "npc_dota_hero_axe",
+        "id": 2,
+        "localized_name": "axe",
+        "HeroDescription": "Axe, without a doubt can farm the forest, stacking the creeps, but if the have the opportunity to go on hard lane with one or two supports we will give a lot of help to our team. Axe has an ability to stand behind the tower and don’t let creeps to defend it, so tower will be pushed very fast. We should get Stout Shield and Ring of Protection to have more armor and healing salve to be able to heal in case something goes wrong.<br/><br/>If we have to play solo hard, then do not act very offensive and run too deep, only if the enemy is melee range (then counter Helix won’t let him hit you freely.) <br/><br/>If we play with support then we have nothing to be afraid of and we may go behind the towers. As enemies have no chance to last hit creeps you may use Battle Hunger time to time and not let them to enter a fight.<br/><br/>While creeps will push T1 tower by the 4-5 minute we will be able to go and farm forest to buy Dagger. By that time saved money should be enough to buy Tranquil Boots.<br/><br/>Blink Dagger is a key item for us. So it should be bought right after Tranquil. It is easy to do in forest, just make yourself couple of double spawns, put your Tranquil boots on the ground so they will be active right away and farm those neutrals.<br/><br/>With dagger we should try to use it right away and gank some lane.",
+        "Goodwith": "abaddon",
+        "GoodDescription": "Abbadon and Axe will be great couple on the lane. Axe should use Berserker's Call on the enemy to make him attack. Abbadon casts Aphotic shield on the ally to increase his survivability and give damage to the enemy. Abbadon comes close attacks and slows down the enemy that won't let him retreat. Mist coil can be used to finish the kill or if Axe is already lvl 6 - use Culling Blade."
+      },
+      {
+        "name": "npc_dota_hero_bane",
+        "id": 3,
+        "localized_name": "bane",
+        "HeroDescription": "Great start for us will be FB, because with Nightmare we have a chance to stop the enemy that walked too far. You should check your forest to see if some enemy decide to go scouting, and ward our forest, if we meet that enemy use the sleep on him and wait when your team comes to help. You should be close to him so he won’t get away. <br/><br/> After that go on lane to enemy carry and try to stop him from farming. Don’t forget to do your responsibilities like wards, pulling creeps, stacking neutrals, ganking. From the level 2 when you will have Enfeeble ready use this spell all the time, and the enemy farmer won’t have the chance to last hit. Mana is not endless but those Clarity bottles will help you with that. Bane depends on mana a lot so later you will get Arcane Boots.",
+        "Goodwith": "mirana",
+        "GoodDescription": "While Bane holds an opponent in Nightmare Mirana can shoot their arrows without problems also from a higher distance, then the newest opponent is stunned and you can kill him quickly, a good first blood combo"
+      },
+      {
+        "name": "npc_dota_hero_bloodseeker",
+        "id": 4,
+        "localized_name": "bloodseeker",
+        "HeroDescription": "You are a noob if you start the game with healing potions. Bloodseeker does not need it anymore. It is much better to spend those money on Observer Ward or Animal Courier to help your support out. Why? Because now Bloodseeker is a great forest farmer. First of all we should go to the rune. If we are lucky to pick up something useful (DD or illusions) then we go back to forest. The hardest level for farm is the first one. As soon as creeps are spawned you should check the middle camps. If you have bad luck there will be centaurs. If so – go seek the big camps and look for trolls. If there are no trolls – pick good spot, cut down the tree and get ready to kill centaurs, starting from the big one. To pick that perfect place, get close to the camp and cut down the tree that will place you into position when only 1 creep may hit you at a time. This works not only with centaurs but with all the others too. <br/><br/> Here is the nice about positioning <br/><br/> http://www.youtube.com/watch?feature=player_embedded&v=zQUmVctbSUQ. <br/><br/> Bloodrage should be used not at once but when centaur has less than 50% HP. Just don’t forget that blood rage should be always on when you kill a creep. Or else you will not be very healthy. As soon as you have enough gold buy Poor Man's Shield to make farm easier. We should get Boots of Speed and Urn of Shadows till mid game – that is our minimal goal. As we do not have passive heal from kills no more the Urn of Shadows is quite a good option to replace that, and mana regeneration will always be useful. And boots are boots, you buy them no matter what.",
+        "Goodwith": "zeus",
+        "GoodDescription": "Bloodseeker spot characters with low HP. Zeus finishes them with Ulti."
+      },
+      {
+        "name": "npc_dota_hero_crystal_maiden",
+        "id": 5,
+        "localized_name": "crystal_maiden",
+        "HeroDescription": "We will go on the lane with carry, to support his farm and protect him. It better be easy lane (top for Dire and bottom for Radiant) then we will have the ability to earn some gold by pulling creeps. First items will be: Observer Ward,Sentry Ward, 3x @Iron Branch(item:579), Tango. <br/><br/> We will go with our team to our forest and see whether enemy will try to block spawns of creeps. It is important to notice where enemy put the Ward and destroy it with Sentry Ward. Observer Ward will help us to be protected from ganks and control the rune, and Iron Branch will increase stats for cheap price. <br/><br/> Next item should be Boots of Speed because our move speed is too low. Then we will upgrade Iron Branch to Magic Stick to restore mana and HP in fights. <br/><br/> Before we will do pull, we should make double spawn. To do this we will attack creeps on 54-55 second and run away from the spot of respawn. <br/><br/> If our carry has problems we should on lane and harass the enemies. We should help in kills if mider came to gank, to earn additional gold and do not forget to control wards.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_drow_ranger",
+        "id": 6,
+        "localized_name": "drow_ranger",
+        "HeroDescription": "It’s better to go to easy lane, because we will have more farm there. <br/><br/> Goal #1 we should try to last hit all the enemy’s creeps. If enemy heroes come close, we should attack them with Frost Arrows. So creeps won’t attack us. <br/><br/> We should not use Frost Arrows on creeps, because our mana will end very fast, and we won’t have the ability to slow down enemy or use Silence to escape from gank. <br/><br/> Power Treads is the best item for us on first stage.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_earthshaker",
+        "id": 7,
+        "localized_name": "earthshaker",
+        "HeroDescription": "First itembuild can vary a lot, everything depends on who is in the enemy team, and if second support has bought Animal Courier. <br/><br/> If Animal Courier has been bought, then you should buy Tango, Healing Salve, 2x Iron Branch and Clarity. <br/><br/> The Tactics goes down to smart use of Fissure. On the first levels there is a great chance to do First Blood, by railing off the opponent near the forest on low angle. Also you can use this spell to make ambushes. Striking from the jungle you can stun enemies and your team-mates will finish the rest. Killing makes simple if any of your allies has Blink. In that case this combo can make kills if stunned enemy hadn't full HP. <br/><br/> It's a long way before we'll buy Arcane Boots, so first of all we would upgrade Magic Wand. It will resolve problem in cases when we need only 10 MP to make Fissure but we haven't it. And as we are support character, we should not forget about Observer Ward. We should buy it on all the money leftovers, this is always a great choice.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_juggernaut",
+        "id": 8,
+        "localized_name": "juggernaut",
+        "HeroDescription": "We should buy such items as 3х Iron Branch, Tango, Healing Salve и Quelling Blade. Those items will help us farm, heal, and branches are to be upgraded into Magic Wand that will give +3 intelligence and we will have enough mana for Blade Fury + Omnislash. After we got first items we will go to easy lane (top for Dire, bottom for Radiant) with one or two supports, so we can farm. <br/><br/> If we went with three heroes on lane, we ask our support to learn slowing down spells, then we will be able to do first blood with Blade Fury. We should last hit enemy’s creeps, to buy Phase Boots and Magic Wand. It should be done till 6th level, because we will need mana and move speed to kill enemies, and 24 damage from Phase Boots will make our last hit easier. <br/><br/> We should be aggressive because Blade Fury can kill enemy and can help us to escape, because of magic immunity. And in case we can heal with Healing Ward.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_mirana",
+        "id": 9,
+        "localized_name": "mirana",
+        "HeroDescription": "Mirana can play on any lane, but it’s better to choose mid because we need to level fast, so we can gank lanes, and we can use Leap to control the runes. <br/><br/> Our hero has only one problem in early game – low damage that we will increase with items. <br/><br/> We should play on lane, last hit creeps, and try to farm for Bottle so we can restore HP and mana and save runes till the moment we need them. <br/><br/> Slippers of Agility could be upgraded to Poor Man's Shield if we get harassed a lot, or upgrade them to Wraith Band, so we will get a little more attributes. <br/><br/> Boots should be chosen so they would improve our disadvantages and positive sides. Phase Boots would be great for that, they will give us 24 damage and will increase move speed by 16%. With these items we can gank very well, because we will have great mobility and nice damage. <br/><br/> Mirana is not the best hero in 1v1 fights, because we should be far from enemy to make our Arrow really efficient, and we will have to waste time when we will approach him. So you should not try to gank a hero in mid by yourself, it won’t work. On top and Bottom lane we should try to hit our arrow, and our team mates will do all the other stuff. 3-5 seconds is more than enough. <br/><br/> We should ask our support Observer Ward on one of the runes, and keep an eye for it on minutes 2-4-6 etc. We should not be afraid to use leap so rune would be ours.",
+        "Goodwith": "bane",
+        "GoodDescription": "While Bane holds an opponent in Nightmare Mirana can shoot their arrows without problems also from a higher distance, then the newest opponent is stunned and you can kill him quickly, a good first blood combo"
+      },
+      {
+        "name": "npc_dota_hero_nevermore",
+        "id": 11,
+        "localized_name": "nevermore",
+        "HeroDescription": "We should buy 2х Slippers of Agility, 2х Iron Branch, Tango, Healing Salve and go to mid, to level up fast; or go to easy lane if we have 1-2 great supports and they will harass enemies while we will farm. But still mid is better. <br/><br/> Such items from the beginning are used because we have very low damage now. It can be fixed with collecting the souls, but we have to last hit somebody for that. Great attack animation will help us and +8 damage from items. We can upgrade Slippers of Agility to Wraith Band if we feel problems with farm, and to have some stats in midgame Then usually we would need Bottle, to heal, and have the ability to collect runes, next item for us is Power Treads, to increase attack stats, and gain 150 HP (We turn on Strength). <br/><br/> We should farm on lane; sometimes attack the enemy if he lets us do that. On this stage it’s better to last hit a creep than harass the enemy. We should try to deny as much creeps as possible too because it also gives souls. We should not gank before 8-10 level, and farm, to get key items faster, and gain high level.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_morphling",
+        "id": 10,
+        "localized_name": "morphling",
+        "HeroDescription": "As any hard carry we go to easy lane with support. We ask him to get everything we need as Animal Courier, or Observer Ward, and we start to farm methodically, creep by creep to earn for items we need. <br/><br/> Why we choose Arcane Boots? Because the most effective late-morph is Bloodstone and Boots of Travel. But not any game will let you get those strange items. There are situations when you can’t farm. But if we have the advantage then we need no Hand of Midas to farm fast. Those items make us fly around the map and use wave on cool down farming packs of creeps. Yes we are not very strong in the beginning, and we afraid of ganks, but if we play great game, such item build will be great. That is why we get Arcane Boots, so later we can dissolve them and get Bloodstone. If you want some classics, get yourself Power Treads.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_phantom_lancer",
+        "id": 12,
+        "localized_name": "phantom_lancer",
+        "HeroDescription": "If we have problems with last hitting creeps we should get Quelling Blade, because our team’s fate depends on our farm. <br/><br/> We can be very careful while playing on lane, because we are very weak in early game, and if we make a mistake we would probably die. This will weaken our team and further fight will be much harder. We should remember that we are our team’s hope, and play very careful. If we staying on lane have troubles in farming (enemies doesn't allow to come for creeps), we should reinsured and buy Ring of Health that will help us heal in case. If we are farming freely we should hoard money for the foremost Lencer's item Diffusal Blade <br/><br/> That item makes us machine for kill. It gives us ability to burn mana from targets, and slow them down if we need so, with active ability of Diffusal Blade. We should get this item as fast as possible to win. <br/><br/> After getting Diffusal Blade we can get Power Treads with clear conscience",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_puck",
+        "id": 13,
+        "localized_name": "puck",
+        "HeroDescription": "Puck’s abilities let us play on any lane but because we need to get 6th level fast we better go to mid with such items: 3x Iron Branch, Tango. With such item build you will be able to buy Bottle faster, probably in couple of minutes. <br/><br/> With Bottle we can control runes, to get the advantage and recharge Bottle. With first money we will upgrade Iron Branch to Magic Wand and get Boots of Speed. You can use couple of Illusory Orb on the enemy if he plays aggressively. <br/><br/> After level 6 we can gank. It’s better to go there where lane is not pushed, and enemy has to retreat a long way. During the gank we should use Illusory Orb+ Waning Rift + Dream Coil. If our gank was successful then we will buy Power Treads and Town Portal Scroll (to help our team in case).",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_pudge",
+        "id": 14,
+        "localized_name": "pudge",
+        "HeroDescription": "Our first items will be 3x Iron Branch, Tango (we should save all the money we have left to buy a fast Bottle) <br/><br/> First item that we should have, if we play on mid lane, is of course Bottle. This item will solve our mana and HP issues, and will give us a chance to miss Meat Hook. <br/><br/> Next Item to buy is Boots of Speed. Our fatty is too slow, and this item will give us move speed. Later we can upgrade them to Phase Boots, if we don’t need more mana, and our Hook accuracy is great, or get Arcane Boots, if we have such problems. <br/><br/> If we kill, and we have enough of money, then you may buy Urn of Shadows. This item is a really great thing to have. <br/><br/> On this game stage we should focus on last hitting creeps. But we should not forget that this hero can deal damage to enemies with Rot. But we should be very careful in using it, so we can stay on lane as long as we can. We also should keep good control of runes. If we will be lucky to find a good rune, like Haste or Double Damage – we can even make First Blood.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_razor",
+        "id": 15,
+        "localized_name": "razor",
+        "HeroDescription": "Razor can play well on any lane, but it will be great if you can go on Easy lane with support (top for Dire; bottom for Radiant). We will buy: Stout Shield, 3x Iron Branch, Tango, and Healing Salve. Stout Shield will be upgraded to Vanguard, Iron Branch will increase our stats for three points, and we need regeneration to avoid going to base if we need so. <br/><br/> We should choose Power Treads as our boots, starting from Boots of Speed. 3x Iron Branch will be upgraded to Magic Wand, It will be great if our support will have stun or other disables, during which we can transport damage with Static Link. This spell should be used on cool down, because mana cost is low and additional damage will help us farm. We have great attack animation that’s why it’s easy to farm, but the damage is rather low, that we will compensate with items and Static Link.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_sand_king",
+        "id": 16,
+        "localized_name": "sand_king",
+        "HeroDescription": "First we should pick the lane we will go to. We can’t go to mid because we will not be able to farm gold and experience there, so we should go somewhere else where it will be possible. If we stay on lane with carry, it’s better to leave all the farm for him, but if not, we should last hit creeps ourselves. <br/><br/> First items: Gauntlets of Strength, 3x Iron Branch, 2x Clarity. <br/><br/> From the first money we get, we should buy Boots of Speed that will save our life in future. Then we will upgrade our Gauntlets of Strength to Bracer, and upgrade our Iron Branch to Magic Wand. If we have the opportunity to kill the enemy we should do it, but we should not be too aggressive. Our main goal is to reach level 6 as fast as possible, to be useful in fights and gangs. If we have reached level 6, we should learn Epicenter, buy Town Portal Scroll, because our team might need us in any moment. We should keep the map under control. <br/><br/> If we have no chance to farm on lane, it’s time to go to woods. We upgrade our Boots of Speed to Arcane Boots, so we can easily restore our mana pool. We can try to use Epicenter, if we have such a chance, but if enemy plays carefully then we continue our farm.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_storm_spirit",
+        "id": 17,
+        "localized_name": "storm_spirit",
+        "HeroDescription": "The best choice of lane for us is mid. First items: 3x Iron Branch, Mantle of Intelligence, 2x Clarity, Tango. With those items we will have quite a lot of mana, attack and regeneration that will be vital. <br/><br/> What item build we will have? <br/><br/> The first goal is to get Bottle, and don’t forget to control runes. When we have it, we will be able to play aggressive, set our Static Remnant and charge Overload. With first money, we will upgrade our Mantle of Intelligence to Null Talisman, and Iron Branch to Magic Wand, and buy Boots of Speed. Now Storm Spirit has great mana pool and also move speed. <br/><br/> After we got 6th level and Ball Lightning we can go gank if there is a need. Don’t forget to use the ultimate in ganks to charge overload, because it has no cool down, so we can have it charged all the time if we have enough mana. After we go back on the lane we should upgrade Boots of Speed to Power Treads and use them of Strength. Because we have not a lot of HP and we will die in first rows in fights. Now we have all the items for start and if there is nothing interesting on the map we can go back to farm.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_sven",
+        "id": 18,
+        "localized_name": "sven",
+        "HeroDescription": "Item build at the beginning plays a great role. You should buy a Quelling Blade before you go to line, it will allow you to last hit creeps easily, Tango and Healing Salve will solve the regeneration problems, and 3x Iron Branch will give us some more stats. Next items to buy are Boots of Speed and Drum of Endurance that will allow us to avoid ganks and chase enemies with Warcry. <br/><br/> Most of the time you will go with support on easy line (up for the dire and down for the Radiant) and the main goal on this stage of the game is last hitting creeps, to collect all the needed items before team fights. You should play carefully, because Sven’s time is yet to come, and the amount of deaths should be reduced to the very minimum, so you would not lose money or experience. But you should not forget that Sven can be very aggressive hero, and if we have an enemy character with low health on the line, on 3-5 levels we will take half of his health only with Storm Hammer.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_tiny",
+        "id": 19,
+        "localized_name": "tiny",
+        "HeroDescription": "This item build can vary, and it depends on what line do we go to. If we go to mid, then you should buy 3x Iron Branch, and then Bottle, that will allow us to use spells constantly, and gank other lines, if we will find Haste rune, because with Bottle we will always have enough health and mana. <br/><br/> If we go on some other late, then our first items will be 3x Iron Branch, Circlet, Tango and Clarity. With these items we will have enough mana to do a procast on low levels. And in case of emergency we can regenerate our health and mana. Our next item should be Boots of Speedthat we can improve to Arcane Boots or Power Treads. We need first ones, if we are going to be ganger, and second ones should be bought considering late game, if we are going to be carry. Novice should choose Arcane Boots, because they will solve mana problems, even if we will be missing with the Stun. Drum of Endurance will allow us to chase the enemy, because our basic speed is not very high, and they also will give useful aura for the team. <br/><br/> If we play solo, we should farm for first items, enemies will not be too aggressive, or they will get huge procast – Avalanche + Toss. If we play with support, then we should try to kill enemies, but not forget about farming. You can toss the support into the enemy and then come closer and use Avalanche.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_vengefulspirit",
+        "id": 20,
+        "localized_name": "vengefulspirit",
+        "HeroDescription": "First we should decide which lane to go. It’s better to go to place where we will be most efficient, so we will go on easy lane with carry, to make his farm safe. What items should we get? Here are those items: Animal Courier, 3x Iron Branch, Tango, Healing Salve, 2x Clarity. With that pick we will have enough regeneration for both us and our carry on lane, and Iron Branch will give us stats. <br/><br/> If we play with hero that has great DPS like Gyrocopter, then we can do FB. We should get Boots of Speed as soon as we can, then we upgrade Iron Branch to Magic Wand. Now Vengeful Spirit is mobile enough to gank and we become not easy to kill. <br/><br/> When we have 6th level and got Nether Swap, we can try to kill our enemy on lane (with our team mate), or continue defending our carry. Next items that we will need are Ring of Aquila and Arcane Boots. Ring of Aquila is for faster farm, and Arcane Boots, will give us mana regeneration that all our team need.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_windrunner",
+        "id": 21,
+        "localized_name": "windrunner",
+        "HeroDescription": "If our team hasn’t bought Animal Courier we should buy it. On first levels we will play with carry on lane, and it’s better to play passively. <br/><br/> We have everything to escape the enemy but it’s better to save mana for bad situations. We should not forget to upgrade the courier and help our team. <br/><br/>Ring of Protection will be increased to Ring of Basilius to increase mana regeneration and let us use spells more often. <br/><br/> The choice of boots depends on game situation. If we have a lot of supports then we will get Phase Boots, but if there are no such heroes then we can buy Arcane Boots, to help our team with mana.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_zuus",
+        "id": 22,
+        "localized_name": "zuus",
+        "HeroDescription": "Zeus is a nuker that needs to level up fast so we will go on mid. First items will be: 3x Iron Branch and Tango. We need money for fast Bottle, but not at once, even though we had enough money but it’s better to increase some stats and first rune usually goes not for the mid players. We will ask supports to buy courier and place wards on runes, at least one. <br/><br/> We will farm and get Arcane Boots, starting from Boots of Speed. It would be great if we will be able to buy Magic Wand, and free our slots from 3x Iron Branch. And we will have the ability to restore some health and mana. Till 4–5 level we should concentrate on farm because our spells does not deal a lot of damage and we have not enough of mana. Arc Lightning will be used to last hit creeps if we will play against serious opponent. <br/><br/> We should be careful because we don’t have disables or escapes. And keep an eye for the map so you won’t be ganked. From the level 5 you can harass your enemy with spells, and from level 6 you can go gank.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_kunkka",
+        "id": 23,
+        "localized_name": "kunkka",
+        "HeroDescription": "Item build for Kunkka is very important part of the game. First items should be 2x Gauntlets of Strength that will give us some damage and health, and then will be upgraded to Urn of Shadows, Clarity will help to make a kill or save the team mate, because we have not a lot of mana, Tango and Healing Salve will solve the problems with regeneration, and Iron Branch will increase our armor up to 2. <br/><br/> While on the line you should buy Boots of Speed to increase move speed and Urn of Shadows that will let us heal or finish the enemy, solve the problem of mana regeneration and will increase survivability. Urn can be used to heal team mates. <br/><br/> If we play solo, than we keep our mana for Torrent, to save during the gank or vice versa, to help team mates killing the enemy. Tidebringer’s harass is more than enough. We should try to last hit as many creeps as possible, always hitting enemy with the sword. If we play with support then we should try to kill the enemy by placing the Torrent correctly. You should notice that sword should be charged by that moment, so you will give more damage.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_lina",
+        "id": 25,
+        "localized_name": "lina",
+        "HeroDescription": "We can play on any lane but it is best to pick either mid to gank or easy lane to help our carry and play support role. We should buy Animal Courier(it’s standard choice for support, and in pub we can stay without courier if we won’t buy it) Tango, and 3x Iron Branch.<br/><br/>We should get Arcane Boots starting from Boots of Speed.<br/><br/>On lane we will harass the enemy, and it is important to get 6-7 level to have strong procast. Light Strike Array should be used after stuns of our allies to hit it right. It’s better to kill enemy’s carry and we even can change our life to his. If he won’t farm well we will win the game in late.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_lich",
+        "id": 31,
+        "localized_name": "lich",
+        "HeroDescription": "We will go on Hard lane (bottom for dire and top for Radiant), solo, to prevent enemy’s carry from farm. <br/><br/>We will buy 2x Iron Branch, Animal Courier, 2x Tango, Healing Salve. We can buy Clarity for one of our allies if there is such a need. We will buy a lot of items for regeneration because enemy’s supports will harass us and we need to heal. <br/><br/>On first level we should take Sacrifice and eat one creep as soon as creeps will spawn. First money we shall spend on Boots of Speed to increase our mobility. On this game stage we should block enemy’s forest neutral camps to prevent enemy from pulling. To do this we should place Observer Ward in forest near with camp we want to block. It will help us to earn gold and experience, standing behind our tower, because enemy won’t have the ability to pull creeps. <br/><br/>Next item to buy is Mekansm, that works great for our hero, increasing our stats, and our mana always will give us a chance to heal us and our allies. On level 6 we can try to kill somebody. To do this we should bite enemies in forest or to the river. In dangerous situations we should go behind the tower and protect our hero with Ice Armor.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_lion",
+        "id": 26,
+        "localized_name": "lion",
+        "HeroDescription": "Lion should be as useful as possible for the team. We don’t need farm, but experience is very important, so we should go to mid. First items: Tango, 3x Iron Branch, to get fast Bottle. We should buy Bottle on 2-3 minute, and we should control all the runes when we will have it. <br/><br/>If our enemy last hits creeps very aggressively we can sometimes harass him with Earth Spike or Hex. But we should not be too aggressive, because we have low mana pool and we may not have enough mana when we need it so much. Next, we should upgrade 3x Iron Branch to Magic Wand and buy Boots of Speed. <br/><br/>As soon as we have 6th level and Finger of Death, we may go to help our team, and get the rune if you can, it will be very useful for great gank. If we succeed in gank, most probably we will have Power Treads by now.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_shadow_shaman",
+        "id": 27,
+        "localized_name": "shadow_shaman",
+        "HeroDescription": "Shadow Shaman can play on any lane, but it is better to leave mid for someone who really needs it, and go to easy lane with carry. There we will have the ability to pull neutrals and farm some money in such way. <br/><br/>First items to buy: Animal Courier, Observer Ward, Tango, 2x Iron Branch, 2x Clarity. Thus we will have the ability to control the runes, and approaches to our lane, and we will have mana/HP regeneration +2 for our stats, and our team will thank us for the courier. Observer Ward should be placed to see the rune that will help our mid player to control them, gank better and recharge Bottle. <br/><br/>Our hero has low HP amount, and mana problems because of high mana cost of spells. The items we will be buying are to solve those problems. First item better be Arcane Boots that will help us to restore mana for us and our team, and also will increase its amount. We should use it when we are close to our ally. Now is time to buy Urn of Shadows, that will increase strength and HP, increases mana regeneration and will give us heal for allies or damage for enemies. <br/><br/>On 3rd level we can try to do first blood if our partner has nice damage or some stun, slow down. If our carry is pushed back from the creeps we can use Ether Shock couple of times and take a lot of HP’s from our enemies. On 6th level you should cooperate with mid player and use Mass Serpent to destroy one of the towers.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_slardar",
+        "id": 28,
+        "localized_name": "slardar",
+        "HeroDescription": "We should get such items as: 3х Iron Branch, Tango, Healing Salve and Stout Shield. So we will have everything we need to survive, we will go to easy lane (top for Dire and bottom for Radiant) to farm efficiently. It’s very important to place Observer Ward in woods and on the river so we always have control of this part of the map. We should ask support to do that. <br/><br/>Now everything depends on our last hitting skill, because our goal is to kill as many creeps as possible till level 6. Slardar is not very great at leveling because he cannot harass enemies. And we will be harassed all the time and we need to be ready for that, Stout Shield, Healing Salve and our support, with right game play will allow us to live until we get Power Treads. <br/><br/>After we bought Power Treads and got level 6. Slardar wears his chef clothes and goes to cook lasagna from enemy’s heroes. With Amplify Damage + Sprint + Slithereen Crush Slardar becomes one of the most dangerous gankers, and if his team helps him, he will send all the heroes to the base nonstop. <br/><br/>If we will gank a lot and stay alive it will allow us to buy one of the key items for this hero for team fights – Blink Dagger. <br/><br/>We should note, that if our team pushes enemy on all lanes, we should not go under enemy’s tower to seek an easy kill there, it’s better to ask allies not to push that hard and wait for our time. If there is no great opportunity we should just continue farming to buy Blink Dagger.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_tidehunter",
+        "id": 29,
+        "localized_name": "tidehunter",
+        "HeroDescription": "Because we are playing a support role we should go to lane with carry. It better be easy lane (Top for Dire, Bottom for Radiant). We should buy 3x Iron Branch, Tango, Healing Salve and Observer Ward. Observer Ward should be placed on rune, to help our midlaner and save him from ganks. <br/><br/>We try to farm some money by pulling the neutral creeps and do double-spawns (pull the creeps on 53-54 second from their spawn). We need to do it because we want our creeps to die completely so we won’t give enemy their experience and money. <br/><br/>After this we buy Magic Wand, so we will have more free slots and we will be able to restore mana and health during the fight. <br/><br/>Now we need Arcane Boots, to solve the lack of mana. We would need Urn of Shadows closer to team fights that will let us restore health after fight and give additional damage. <br/><br/>We always need to have mana for Gush, so we can slow down opponents, to chase them or help our carry to escape. <br/><br/>We should not skimp the Anchor Smash, because mana cost is low and damage is decent. Ravage should be used at any great opportunity to kill enemy, because there probably won’t be too much team fights during early game, and additional gold is always great.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_witch_doctor",
+        "id": 30,
+        "localized_name": "witch_doctor",
+        "HeroDescription": "Witch Doctor plays very well if you have triple lane against triple lane, because Paralyzing Cask and Voodoo Restoration are very powerful in fights especially in early game. If we have suitable allies we can go and harass enemy's carry. If no, then we will go to easy lane to farm pulls, because our hero is not a very good ganker as he has no long disable spells for single target.Our skill build considers us to be a support - so with Voodoo Restoration we will heal our carry or our hero if needed, and usingParalyzing Cask just before the heal.. <br/><br/>In early game we dont have to do a lot, the most important thing is not to die (although if you die in sake of saving your carry that will be reasonable) and wait till you have level 6, after which it will be easier to defend by casting Death Ward, from the forest, that will stop the enemy from further attack on our teammate. ( ofcourse if he doesnot have AOE stun to throw it in a possible place of our hero) <br/><br/>This hero is not very mana dependable although Voodoo Restorationcosts a lot of mana, but we have just enough of it to get out of the fight. That works only if we didn't die in couple of seconds, but in that case we still dont need more mana anymore. That is why you may not even bother upgrading Boots of Speed, and start farming Aghanim's Scepter, (that will also give you mana increase in between of all the other effects.) it is better to start with Point Booster because of it's great attributes for the price. Аnd Magic Wand is needed because we are the hero who is often in the fight and we will store charges pretty fast. And that is just a great economical item for a suupport.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_riki",
+        "id": 32,
+        "localized_name": "riki",
+        "HeroDescription": "First items: Stout Shield, Tango, Healing Salve, 3x Iron Branch. <br/><br/>When game starts Riki is very weak hero, he has low damage and low HP that makes him a very easy target for ganks. Our priority is to get 6th level, and then our hero will be less vulnerable. <br/><br/>We shouldn’t try to kill enemy too early, because until we have backstab leveled, we have not enough damage. Our first items should be Tangoand Poor Man's Shield. <br/><br/>Poor Man's Shield will give us agility we need and will make our hero less vulnerable. Next item to get is Power Treads. <br/><br/>First serious item will be Sange and Yasha. It will gives us anything we need in early game, such as attack speed and damage increasing. <br/><br/>When we got all of those items we could try to kill any of frail enemy's supports with help of our smoke screen.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_enigma",
+        "id": 33,
+        "localized_name": "enigma",
+        "HeroDescription": "We will buy Ring of Basilius, Tango and will go to forest. It’s better to use Demonic Conversion on ally creep to help our team mates keep the lane not pushed. We will farm gold by killing wood creeps. While we still have Tango, we can tank to keep our Eidolons alive for more time. When we fight against centaurs or Ursas, We should place our units separately to avoid getting mass damage/stun. <br/><br/>We should buy Soul Ring faster that will give us unlimited mana. We will use the ring and right after that Demonic Conversion. <br/><br/>On 4-5 level with 6 Eidolons we can gank the lane and kill the enemy. It’s better to pick targets with low armor. <br/><br/>We will buy Power Treads now, to increase HP, move speed (we will use it on Strength). After that we should buy Mekansm, to increase armor, and get heal for our team. Now we can push enemy towers effectively, because our creeps will tank more with increased armor. Black Hole should be used on single target only if its enemy’s carry. In all the other occasions you better wait.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_tinker",
+        "id": 34,
+        "localized_name": "tinker",
+        "HeroDescription": "Tinker is one of the heroes who need both experience and money, so we will go to mid. Our first goal is Bottle, that’s why we will get 3x Iron Branch, Tango. And when we will buy Bottle our goal is to control runes. <br/><br/>If our enemy is melee fighter, and he is very aggressive we can attack him with Laser but do not forget to control the mana pool, and always know how much charges of Bottle you have. From the first money we will buy Boots of Speed and 3x Iron Branch will be upgraded to Magic Wand. <br/><br/>Our main goal now is to farm for Boots of Travel. So if no one stops us we should farm the lane. When we will get level 9 we should be able to buy Boots of Travel. Now we can fly all over the map and seek for frags or farm. Do not forget that you always should have 225 mana for Rearm + Boots of Travel. You will fly to base often but you may get Soul Ringif you wish so.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_sniper",
+        "id": 35,
+        "localized_name": "sniper",
+        "HeroDescription": "First items: 3x Iron Branch, Tango, Healing Salve. <br/><br/>We play as carry and we will go to easy lane with support that will pull neutral creeps and help us to harass enemies so we will decrease their farm. <br/><br/>Next item that we will get is Power Treads, to increase mobility, attack speed and HP. <br/><br/>After that we need 1400 gold for Claymore, that will be useful in future, and now will help us killing creeps. <br/><br/>We can be aggressive on lane because we usually are out of range of our enemies. When we get level 6 we sure can shoot it on enemy’s support or someone who has low HP. This action will make him go to base especially after some additional shots. We should not get into fights, because farm will let us earn gold for sure, and we can’t say the same about team fights.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_necrolyte",
+        "id": 36,
+        "localized_name": "necrolyte",
+        "HeroDescription": "Necrophos is a great mider. That’s where we will go. <br/><br/>On start we should buy:Gauntlets of Strength, Circlet, 3xIron Branch, Tango. Some parts we will keep to buy [Drums of endurance] in the future<br/><br/>If we are playing against melee hero we should level up through Death Pulse and Heartstopper aura, to prevent enemy from farm. If we have ranged hero against us, we should level up Sadist instead of aura, thus nor our opponent nor we will be able to do anything (but a lot depends on runes and ganks). <br/><br/>Because we didn't by Bottle, we should ask our teammates to get the responsibility to control the runes, as well as our enemy. <br/><br/>7th level and all the items means that it’s time to gank.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_warlock",
+        "id": 37,
+        "localized_name": "warlock",
+        "HeroDescription": "Warlock can play either with carry, or go to mid. Because there are couple of expensive items that will increase Rain of Chaos, we will go to mid. First items: 3x Iron Branch, Tango. This is item build called fast Bottle, to get it on 2-3 minute, and Iron Branch will increase our stats, and we will be able to restore HP with Tango if we need so. <br/><br/>As soon as we will have 600 gold we will buy Bottle, that will help us to restore mana and HP and harass the enemy. We should also control the runes with it. Our Iron Branch will be upgraded to Magic Wand, to have the ability to heal in battles. After that you should buy Arcane Boots, to solve all the mana issues, and Point Booster that will increase our HP and will be useful later. <br/><br/>From 4th level we can use Fatal Bounds + Shadow Word on the enemy. It’s important to hit some creeps with Fatal Bounds too. We can go gank on 6th level; it’s better to gank enemy’s carry. Our ultimate will make the kill very easy. If we still couldn’t do that, we should destroy the tower, because the golem is already summoned.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_beastmaster",
+        "id": 38,
+        "localized_name": "beastmaster",
+        "HeroDescription": "First items depend on the line that we choose to go. <br/><br/>If it’s mid, then we buy 3x Iron Branch, Tango, to have a fast Bottle, but also to have some stats, and some heal. <br/><br/>If we go to hard line (up for Radiant, and down for Dire) then we should choose 3x Iron Branch, Observer Ward, Healing Salve, Tango, 2x Clarity. <br/><br/>It’s better to go to mid, because we can gank very well on level 6, and using beasts to control runes. If we play on hard line, then we should farm creeps carefully, and try not to go far from the tower. If we stand against triple line, then probably our tower will be broken down very soon, and we should not give our life to enemies, because they will get money and experience, and still will break down the tower. You should place the hawk to see the enemies come from the river. We farm to get Boots of Speed and Drum of Endurance. These artifacts will help us to move between the lines faster on level 6, gank and position yourself right to do Primal Roar. Don’t forget to harass your enemy with a boar if you play on mid. He will be distracted and will last hit less creeps.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_queenofpain",
+        "id": 39,
+        "localized_name": "queenofpain",
+        "HeroDescription": "The best lane for us is mid. The question of items is very common for beginners. You should buy: 3x Iron Branch, Tango. This item build is used to get fast Bottle. Don’t forget to harass your enemy with Shadow Strike and with attacks. If we play against not very tough hero like SF, after one Shadow Strike he will have 50% of HP. After we harass him a little with spell and attacks we may jump to him and kill with scream, but it’s important to do it correctly in order not to miss or die. <br/><br/>Don’t forget about rune control – they are very important for us. We need to buy Boots of Speed, to move faster, and then upgrade our Iron Branch to Magic Wand, that will be very effective later; Null Talisman will be great to restore mana. <br/><br/>When we will have 6th level we can go and gank on cool down of our Sonic Wave, we should control runes, and think of mana pool. Our Boots of Speed should be upgraded to Power Treads, and we need to get Town Portal Scroll, because our team might need us in any moment.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_venomancer",
+        "id": 40,
+        "localized_name": "venomancer",
+        "HeroDescription": "Without too much thinking we should go on easy lane and support our carry as much as we can. <br/><br/>All new players think of one thing: what items to get? Here is the answer: Gauntlets of Strength, 3x Iron Branch, Healing Salve, 2x Clarity. Thus Venomancer will have enough HP that will be great for his level, and will increase damage a bit. <br/><br/>Then we should get Boots of Speed and Bracer that will increase our survivability. Then we need Ring of Aquila and upgrade our Iron Branch to Magic Wand. When Venomancer got 6th level, we can go and help our team or try to kill our lane rivals. But if we can farm without problems we better do that. <br/><br/>Our goal is to upgrade Boots of Speed to Power Treads and turn on Strength, because we have low HP, and we will be focused first in fights.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_faceless_void",
+        "id": 41,
+        "localized_name": "faceless_void",
+        "HeroDescription": "Faceless Void has only one lane choice – easy lane (top for Dire, bottom for Radiant), with one or two supports. We need free farm because we need items as soon as possible. <br/><br/>We will buy Stout Shield, 3х Iron Branch, Tango, Healing Salve. Those items will help us farm a little, and won’t notice enemy’s harass, and restore HP in case. On lane we should get Quelling Blade, to last hit easily. <br/><br/>It’s important to get fast Hand of Midas, because attack speed will increase our Time Lock, and additional gold and experience will be useful (it’s better to use it on neutral creeps of high level). After we will upgrade Stout Shield to Poor Man's Shield, and get +6 agility and damage block. <br/><br/>Then we will buy Power Treads (better to turn on Strength to get more HP). Our goal is farm, we should avoid fights, if we are not sure of success, and if we do not see enemies on the map, it’s better to go behind the tower.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_skeleton_king",
+        "id": 42,
+        "localized_name": "skeleton_king",
+        "HeroDescription": "Wraith King, thanks to the game and to the items that we will get will become very annoying hero for the enemy. When the enemy kills us he will waste a lot of effort and HP for that and thanks to Blade Mail, Mjollnir, Radiance we can kill couple of enemies before we die. After that we will be ressurected with Reincarnation and continue to fight with weaken enemy, and besides that we will debuff them even more. And if we are not get focused because of ultimate we still have quite a good DPS it is that easy ;). <br/><br/>Our first items to buy after we appear are Stout Shield, 2xIron Branch, Tango, Healing Salve. If you understand that you will play against someone with big physical damage like Luna, then get yourself a Quelling Blade instead of branches and a flask. <br/><br/>Go to lane with any support. Your goal is good farm and not to die in the beginning. We should note that Wraith King - Is a great aggressive hero in the beginning , because it is possible to use stun twice per one attack. That is why you should always help your support when he does some aggression. <br/><br/>You live up to level 6 and now you have reincarnation. It is good if you also have Power Treads and Magic Wand by that time. It is important to buy those sticks because with them we will always have mana for reincarnation. But still it is important to be aware of your mana pool and always have enough mana for ultimate.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_death_prophet",
+        "id": 43,
+        "localized_name": "death_prophet",
+        "HeroDescription": "The best lane for us is mid, and that’s where we will go. First items will be: 3x Iron Branch, Tango. We will get those items to buy fast Bottle. <br/><br/>Don’t forget to harass your enemy with Crypt Swarm. After we will get Bottle we should control the runes. Next items to buy will be Boots of Speed and Magic Wand. After level 6 and learning of our ultimate we can go to help our team and maybe even destroy a tower. <br/><br/>Don’t forget that during the gank you should use silence and hit it right, your success depends on that. If you did everything right, you should be able to buy Phase Boots. Now we can be more aggressive. If enemy has a lot of heroes with not a lot of HP we can gank those with Silence + Crypt Swarm, and destroy towers on Exorcism’s cool down.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_phantom_assassin",
+        "id": 44,
+        "localized_name": "phantom_assassin",
+        "HeroDescription": "We will go to easy lane (top for Dire and bottom for Radiant), with one or two supports, to farm as much as we can. <br/><br/>First items will be: Quelling Blade to last hit easier, Tango and Healing Salve to save us from harass, and 3x Iron Branch will give us some stats. <br/><br/>We should try to farm with maximum efficiency, because we depend a lot on items. If we can’t last hit creep with attack we may use Stifling Dagger, that is always better than use it for harass instead. Iron Branch Should be upgraded to Magic Wand, it will give us fast heal. <br/><br/>If we have problems on lane we can buy Ring of Basilius that will let us save mana and will give some armor. We will turn it off so we won’t push the lane. Then we should get Phase Boots, 24 damage will work great for our critical hits and if we will use Stifling Dagger on enemy, then attack him, then use Phase Boots, and Stifling Dagger again we will have advantage in move speed. Cool down of the spell and boots as the time of their effect let us do that.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_pugna",
+        "id": 45,
+        "localized_name": "pugna",
+        "HeroDescription": "We will go to easy lane (top for Dire and bottom for Radiant) alone or with Support. We should play with a hero who has a lot of magical damage (Lina, Lion, Keeper of the Light etc) to kill the enemies from low levels using Decrepify. <br/><br/>We will buy Ring of Protection, Iron Branch, Tango, Healing Salve, Gauntlets of Strength. Those items will increase our survivability and will let us heal faster. We will buy Tranquil Boots to increase our move speed and have the ability to heal. Later we will dissolve the boots for more suitable items. <br/><br/>Gauntlets of Strength will be upgraded to Bracer to increase our stats. After than we can buy Sage's Mask and start getting Mekansm. We will buy Buckler first and then all the rest except the Ring of Regen. When all the other items will be ready we will dissolve Tranquil Boots and get Boots of Speed, Mekansm and Ring of Basilius. With those items we are ready to push the towers, increasing the armor of our creeps and allies, and have mass heal. <br/><br/>We should be aggressive, especially if we already have 6th level. It won’t be a problem to restore HP on lane or in forest. We should go from lane only after we will destroy the tower.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_templar_assassin",
+        "id": 46,
+        "localized_name": "templar_assassin",
+        "HeroDescription": "The best lane to choose is mid, because we need to level fast and it’s great lane to control runes. First items that we buy are 3x Iron Branch to increase our stats, and Tango, in case we will be ganked or our enemy will be too aggressive. All the other gold we will spend on fast Bottle We should ask support to buy a courier, because we cannot go to base, experience is very important. <br/><br/>When you farm try to attack creeps, so that enemy will be behind them to make your Psi Blades work. Sometimes you may use Refraction, to harass the enemy with couple of strikes or to protect yourself. <br/><br/>If you play against hero who can cancel your shields in a matter of secnds, (Jakiro, Pudge, Dark Seer, Batrider), you may think of changing the lane, or ask your supports to gank mid. Couple of words about Ember Spirit. For example if Ion Shell 1-2 level won't debuff the charges of Refraction, Rot gives damage to Pudge, Fireflyhas low range, а Liquid Fire does not a huge damage, the Flame Guard is the worst that may happen to you on lane. It does huge aoe damage and counters our Refraction, and Meld, completely and we have nothing to use to cancel it, because we dont have magic damage, and Searing Chains won't give us a chance to go invisible. It is just a nightmare for the game. <br/><br/>But if things go not so bad as mentioned before we should upgrade our Boots of Speed to Phase Boots and start ganking if we managed to store in Bottle such runes as Haste, DD, or invisibility (we should place Psionic Trap on runes). There is a variant when you buy Hand of Midas, but it only works if we are doing just perfect, or if we feel that this game will last very long.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_viper",
+        "id": 47,
+        "localized_name": "viper",
+        "HeroDescription": "The best lane for us is mid; it’s easier to gank from there. We will buy 3x Iron Branch, Circlet, Tango, Healing Salve. Those items will help us on lane, increase our survivability, damage and mana points, and we will be able to heal if there is such a need. <br/><br/>If our team controls runes, then we will buy Bottle next, that will heal us and save runes for the time we need. Circlet will be upgraded to Wraith Band and buy Power Treads, starting from Boots of Speed. We use it on Strength, so get more HP, because we have enough damage thanks to our passive. If our enemy will come close we will harass him with Poison Attack at once. <br/><br/>Our goal is to get 6th level fast and use Viper Strike for successful ganks. Would be great if we have some great rune in Bottle till that moment, like Haste Invisibility or Double Damage. If enemy on our lane has no escapes we can kill him when he will walk on our side.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_luna",
+        "id": 48,
+        "localized_name": "luna",
+        "HeroDescription": "The best lanes for Luna are easy lane and Mid. Let’s say we went to easy lane. <br/><br/>First items will be: 3x Iron Branch, Tango, Healing Salve, 2x Clarity. With these items we will have more HP, damage and regeneration in case of problems. <br/><br/>When we farm a little money we will get Boots of Speed and upgrade Iron Branch to Magic Wand. Then we will get Ring of Aquila and upgrade Boots of Speed to Power Treads. With those items farm becomes much easier. If enemy won’t disturb us we can destroy the tower. <br/><br/>After we will get 6th level, we may go to gank. Ask your team mates not to push the lane, so enemy would come closer to our tower, If we have to wait 2 minutes for gank, then it’s better to farm because 2 minutes equals 4x4=16 creeps and it means we can get [Boots of Elvenskin]. First real item for us will be Sange and Yasha. It will give us some damage, attack speed and move speed bonus that is even without items is the biggest move speed between all heroes.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_dragon_knight",
+        "id": 49,
+        "localized_name": "dragon_knight",
+        "HeroDescription": "The best items to buy from the start will be: 3x Iron Branch, Tango, Stout Shield - It is very versatile items for a melee hero. The best lane to farm will be mid, but solo lane will also be quite well. <br/><br/>In the beginning DK has low mana pool, that is why we have to get @[Bottle], and use courier for delivery and as soon as we have it we should start controlling runes. In between the runes appear, that will be 2 minutes, we can harass the enemy using Breathe Fire , because we have bottle to restore our mana. Farm is very important aswell, but still Dragon Knight needs experience much more, in order to get his new dragon forms faster to start making a mess on the map. <br/><br/>Knight Dragon is quite a plain hero, meaning that all he needs to do is to transform into a dragon, use active spells and right click on the enemy, or enemy building. That is why our itembuild is simple aswell. By the minute 15 we should have Boots of Speed and Drum of Endurance apart from our Bottle in our inventory, it is cheap and dead simple.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_dazzle",
+        "id": 50,
+        "localized_name": "dazzle",
+        "HeroDescription": "We will go on lane with carry and help him farm, by denying our creeps and harassing the enemy. We should try not to take farm from our ally, because we don’t need many items. We should choose easy lane (top for Dire bottom for Radiant) to have the ability to pull creeps and do not push the lane to give our carry protection of tower. <br/><br/>We will buy Animal Courier, 3x Iron Branch, Tango, 2x Clarity. Those items will help us to stay on lane longer, and our allies will thank us for courier. After that we will buy Magic Wand and Observer Ward because we need to control the rune and path from the river. After that we need to buy Arcane Boots that will solve our mana problems and Bracer to get more HP. We should always have Town Portal Scroll with us, to have the ability to teleport somewhere to save our team. <br/><br/>If our allies don’t want to upgrade Animal Courier – we should do it, because fast courier makes it easy to play on any lane. <br/><br/>We should farm by pulling creeps from woods. It’s better to do double spawn before pull, by attacking the creep on 54-55 second and taking them away from camp, it is done to kill the whole pack of ally creeps and take gold and experience from enemies",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_rattletrap",
+        "id": 51,
+        "localized_name": "rattletrap",
+        "HeroDescription": "We going to the middle, as we have a great gang potential and we can realize an exp advantage easily. <br/><br/>Starting purchase: Tango,Healing Salve,Stout Shield, 3xIron Branch or Clarity – this buy will be more save, as Stout Shield can help us to avoid enemy's harass. <br/><br/>We can purchase Magic Stick instead of Healing Salve, if some ability-spammer, Batrider for example, staying on the line against us. In that case sticks can give us a great advantage, and can save our life at the critical moment. <br/><br/>Upgrade the stick to Magic Wand, if you start with it, or with 3xIron Branch. Purchase Soul Ring if you going to hard-lane, as you most likely can't effectively use Bottle here, but we will still need the mana. <br/><br/>It will be better, don't learn any skill at the level 1, before we come to the line. When enemy going to kill us at level 1, it's better to learn Battery Assault. Do the same, if our support come to the early gang. <br/><br/>In the start of the game, with Rocket Flare we can check enemy's lining, which can give us a good advantage. After all, we can crossing to the lines like this, so allow to us realize our pick to the limit. <br/><br/>Learn Power Cogs at the level 1 only in case of the early gang on you, or you lose many of Hps, and now the enemy try to kill you under your tower. It's the most save option. Correct use of Cogs will allow us to totally control the line. We can fully isolate the enemy from farm, and even from exp and take a great advantage. Also, we can stop the creeps by Power Cogs. <br/><br/>In the early game we just need to farm, control the runes and harass the enemy. Possibly, kill him – it's not so hard to make a first blood on Clockwerk. <br/><br/>Go to roam at the level 6.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_leshrac",
+        "id": 52,
+        "localized_name": "leshrac",
+        "HeroDescription": "The best lane for Leshrac is easy lane. First items: Observer Ward, Sentry Ward, 2x Clarity, Tango, Iron Branch. The first thing to do is to place Observer Ward on closest rune to see it and path to forest, and if we play against 1 hero we should leave second ward for later. Sentry Ward is an item that depends on situation, but they should always be present in any team. They will help us to destroy Observer Ward of enemy or see the invisible hero. <br/><br/>On this stage we should earn money by pulls. We need mana and regeneration, so we should try to last hit all the creeps from pull. (to do pull you should hit the neutral creep from camp closest to lane and take them on lane on 53/23 second). First items that we will need are Boots of Speed, Bracer, and Magic Wand. Those items will increase our survivability. <br/><br/>Don’t forget to control the enemies on lane, and after we get level 3 we may try to kill the enemy with our team mate. If enemy runs away we should try to hit Split earth on his path, don’t forget to turn on Diabolic Edict before you will go on lane. Next item to buy is Energy Booster and we will have Arcane Boots that will help us with our mana.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_furion",
+        "id": 53,
+        "localized_name": "furion",
+        "HeroDescription": "The best choice of us is forest, where we can level up fast and stay hidden for the enemy team. First items: Ring of Basilius, 2х Clarity. Thanks to these items we will be able to farm woods, without going to base. When we will come into woods, on 00:00 we should cast Nature’s Call so our mana will regenerate till the second wave of creeps. <br/><br/>On 1-3 level it’s better to farm easy creeps. We should kill them from 0:30 till 01:00, and place ourselves the way so the spawn would stay in fog of war. Thus we will make another pack spawn on 01:00 and continue our farm. <br/><br/>If we have our mana regenerated even before the new pack, then we will spawn Ents beforehand. Now neutral creeps will spawn every minute (02:00, 03:00, 04:00 etc). When we will have Nature’s Call level 3 we can go for stronger creeps. <br/><br/>First item should be Hand of Midas, and do not forget to use it on cool down. After you will have 6th level you can use Wrath of Nature on cool down to push the lane and earn gold. If enemies went somewhere from the lane that is close to us, we can try to destroy a tower on that lane and then go back to farm woods. <br/><br/>Then we will buy Power Treads and Shadow Blade. Now nature’s Prophet can destroy buildings much easier. And if we will be ganked, then we can use combination Shadow Blade + Teleportation (that spell doesn’t cancel invisibility) Our goal is to destroy tier 1 and 2 towers of the enemy. And don’t forget to use Hand of Midas and Wrath of Nature on cool down.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_life_stealer",
+        "id": 54,
+        "localized_name": "life_stealer",
+        "HeroDescription": "Lifestealer is a great woods farmer, that’s why we get Stout Shield and Quelling Blade to farm better. We can also buy Healing Salve or Tango, but it is not a must, so we better save 100 of gold. <br/><br/>Next item better be Hand of Midas. If we can’t do that before 8-9 minute, we should upgrade Gloves of Haste to Power Treads. But if no one interrupts us, we sure can get Hand of Midas before 8 minute and it will prove its worth till 20 minute, and also will give us more attack speed. Next item is Boots of Speed, and we should upgrade them to Phase Boots if you play on lane, so you won’t get stuck in creeps, and will have the opportunity to finish the enemy. And if you play in woods Power Treads will give you more bonuses. <br/><br/>Orb of Venom is an item that depends on situation. It helps a lot in ganks, because it slows down the enemies. Hand of Midas should be used on small creeps to get more gold from pack of creeps. And we start farm from strong monsters, after we kill weak ones. We can start ganking from level 2 when we will have Open Wounds, but we should do that if we are sure of kill, or we will lose farm and time.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_dark_seer",
+        "id": 55,
+        "localized_name": "dark_seer",
+        "HeroDescription": "Dark Seer can play on any lane because of Surge that will save our live. We will use that opportunity and we’ll go to hard lane, and leave other lanes for heroes that need farm or experience more. We should use Ion shell on 2nd or 3rd creep from pack, because first dies immediately and last one stays out of range. We should try to last hit with attack in early game because Ion Shell’s damage is weak yet. <br/><br/>From first earned gold we will upgrade 3x Iron Branch to Magic Wand, and buy Soul Ring that will solve our mana problems. If we play against 1-2 melee heroes they will get damage when last hitting creeps. When our creeps will come close to tower we should use Soul Ring + Ion Shell + Surge and run around the enemies but not attack them so tower won’t switch to Dark seer. After Ion Shell of 3-4 level we don’t need to last hit with hand, we also can use Ion Shell on us and run near creeps to earn gold, if enemy is not aggressive. <br/><br/>If we can’t farm on lane we should go to woods or to other lane to help our team. Now we should buy Boots of Speed and Mekansm that will help us a lot in fights.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_clinkz",
+        "id": 56,
+        "localized_name": "clinkz",
+        "HeroDescription": "We will start the game with 3x Iron BranchRing of Protection, Tango, Healing Salve. We need to choose the lane, and it’s better to choose something easier, because of bad attack animation, and last hit is a hard thing to do, especially if enemy will try to harass us. <br/><br/>Iron Branch will give us some health, mana and damage. Ring of Protection will increase armor and our resistance to harass, later will be upgraded to Ring of Basilius. <br/><br/>We will use Tango to always have full HP and Healing Salve will be useful if we will lose a lot of HP. After we use it, we may use Skeleton Walk so enemy won’t have chance to cancel healing effect. <br/><br/>We will buy Ring of Basilius, and then Ring of Aquila. Little addition to stats and 15 damage, with mana regeneration aura will be useful on first levels. <br/><br/>The best boots to choose are Power Treads, to get +8 stats for attribute of your choice. We use it on Strength to get more HP. Till 6th level we should just farm, sometimes harassing the enemy with Searing Arrows. We should try not to leave the lane until we have Death Pact.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_omniknight",
+        "id": 57,
+        "localized_name": "omniknight",
+        "HeroDescription": "Important question is: What to get for the Omniknight? The best choice for Omniknight is easy lane. That’s why our first items should be: 3x Iron Branch, 2x Clarity, Healing Salve, Tango. If we go to lane with carry-hero, then we should leave all the farm for him, and we should try to harass enemies, and do not let them hit creeps. <br/><br/>From the first earned money we get Boots of Speed, because Omniknight is very vulnerable without Boots, and has almost no mobility. Then we need to upgrade our Iron Branch to Magic Wand that will save Omniknight’s life not for once. <br/><br/>If on other lines our team suffers, and get killed constantly, then after level 6 we can go to help them. If everything goes great we get Town Portal Scroll, in case we have to fly to fight, and upgrade our Boots of Speed to Arcane Boots, because on low levels we have low mana.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_enchantress",
+        "id": 58,
+        "localized_name": "enchantress",
+        "HeroDescription": "When you study Enchantress gameplay you can think of it as very similar to Chen's gameplay, because during the first 20-25 minutes both of them give a lot of help for the team, using the neutral creeps. And to play really well as this hero, you gotta learn neutral creeps' skills first and know which of them are better to use in different situations. <br/><br/>With that knowledge in mind we should start the party and go into the forest. First items to buy : Observer Ward, 2xClarity, Ring of Protection,Smoke of Deceit . Wards are needed for our safety in the forest from enemy's ganks and to give our mid player the vision for runes; couple of mana potions - to enchant as many creeps as possible Enchant and heal with Nature's Attendants, for us and our allies without any thoughts on mana points; Ring of Protection is bought in order to upgrade it to Ring of Basilius and get those useful auras. Finally, Smoke of Deceit- is a useful item for those who wants to sneak into the enemy's back without getting noticed on wards. <br/><br/>On the 30 second after game starts, neutral creeps will spawn and by that moment we should already have our wards placed and be ready to enchant a creep in order to go on the lane and throw a first blood. Do not enchant the first creep you see, it is better to run around and check every camp, in order to find the most useful creep for gank. The most useful heroes for ganks are Dark Troll Summoner и Centaur Conqueror, because they can disable heroes, even though not for long time but still giving your team the ability to slay the enemy down. If you enchanted Centaur be very careful because his stun radius is low and you should carefully controll this might beast. <br/><br/>Remember that the game may go either way and sometimes it better to go on lane not with ganking creeps but with those who may push the lane. For that goal we need Wildkin Warchief, with Torando, and Hellbear Smasher, noone wants to get under his Clap, even under the tower. <br/><br/>Sometimes it may happen that easy lane won't need your support, then you should go to mid, together with Centaur or Troll in Smoke of Deceit and try to kill the enemy's mid player. <br/><br/>Don't forget that there are no useless neutrals, so if you get the chance to get the summon train rollin' dont waste it. But you still need farm so when you have such ability, like when it is all safe on lanes or your team dominates the enemy, play in forest and farm those fat creeps, with the help of their little brothers(in that way you will get more gold). <br/><br/>After the 15 minutes we should have: Power Treads, Urn of Shadows, Ring of Basilius in our inventory, easy lane should be pushed up to T2 tower and the enemy should be afraid of our might stack.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_huskar",
+        "id": 59,
+        "localized_name": "huskar",
+        "HeroDescription": "We can stand on every lane very well, but it’s better to go there, where there are no any strong mage, because on early stages they will kill us with procast after Life Break. We should buy 2x Gauntlets of Strength, Tango, Healing Salve, 2x Iron Branch. These items will let us to restore our health after harass, and give us some strength to last hit creeps easily. <br/><br/>We use Burning spear all the time on the lane, and trying to finish the enemy with fire damage. But be careful because on the low levels our regeneration is not that big. Next item will be Urn of Shadows. This item will solve health issues and will help us to kill enemies. We need to get Power Treadsbefore level 6. These boots are the best for Huskar because they give Strength, attack speed, and move speed, everything that we need. <br/><br/>Huskar is a very aggressive hero, we need to use that. We should farm much more than our enemy, killing him once and again, or sending him to heal up at base. Support should help us with that. The best hero on that role is a mage with strong procast. They will help us to finish targets with low health, because there are some occasions we cannot do that. Another great variant is hero who can slow down enemy and heal us up.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_night_stalker",
+        "id": 60,
+        "localized_name": "night_stalker",
+        "HeroDescription": "The best lane for Night Stalker is mid, because we can level fast here and it’s easy to gank both top and bottom lanes. First we buy Iron Branch and Tango, to get fast Bottle. Support should buy courier so you don’t have to go to base and waste time. <br/><br/>We purchase Bottle and upgrade Iron Branch to Magic Wand. After this we get Phase Boots, starting with Boots of Speed, because we have nice attack speed and 24 damage is a great addition, and the ability to walk through creeps may save our life or help chase the enemy. <br/><br/>We try to last hit all the creeps, to farm gold for items. We should not forget about rune control and recharge Bottle. If supports do not place Observer Ward, then you should buy Observer Ward and place it on Rune. After level 5 you may play more aggressive using Void on your enemy.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_broodmother",
+        "id": 61,
+        "localized_name": "broodmother",
+        "HeroDescription": "Depending on tactics and skill level, Broodmother can play any lane well, except the woods. Let’s look at hard lane Broodmother. <br/><br/>First items will be: Tango, Clarity, 3x Iron Branch - all those will help us to live longer on lane. <br/><br/>We should go and place the net on the area where most of the fights between creeps will happen. We should try to block your creeps if that’s possible. Next net should be placed on area to make safe road for us to reach the shop. After we will get second level we should use Spawn Spiderlings, and try to last hit creeps. <br/><br/>As soon as we have pretty good army of our little furry children, we should use it to farm enemy’s woods. As soon as we have enough money we should get Soul Ring that will let us spam Spawn Spiderlings with the speed of Chinese shoemaker. We should repeat the procedure of woods farm until we will have Power Treads and move into Midgame. <br/><br/>We should say that if enemies are not complete idiots, they would like to see our hero in web and will try to push us back with any means. That’s why we should think of it first and get Sentry Ward to destroy enemy’s Sentry Ward. Do not forget that when we place Sentry Ward we get the vision of enemy’s Sentry Ward but so enemy also has the vision on ours. It’s better to destroy wards when our creeps pushed the lane little further. Dust of Appearance will be effective only if enemy has disables, stuns or slowdowns. If they have no such heroes, then they will just see the dust from our eight legs.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_bounty_hunter",
+        "id": 62,
+        "localized_name": "bounty_hunter",
+        "HeroDescription": "First items will be: Tango, Healing Salve, Stout Shield, Iron Branch, Clarity. <br/><br/>Three against one is typical situation when you play for Bounty Hunter. But you will only win from that, because you will be able to get all the experience from creeps, and dominate in midgame. <br/><br/>We will try to collect Poor Man's Shield to increase survivability and damage addition will ease our last hitting with Jinada. <br/><br/>Don’t forget that we are also vulnerable in invisibility if enemy uses Sentry Ward everywhere possible. Try to check the presence of such items in enemy’s inventories, and try not to last hit creeps from invisibility and never harass enemy in such a way, because smart enemies will kill you faster than you will be able call out for help. If you are not very skilled player, its better just to stay aside in the area of where you will gain experience. If you are more experienced then you may try to harass enemy’s support in woods in between playing on lane. You may try to kill the support or try to last hit big creeps with Shuriken Toss. It is also important to avoid places where enemy may come to our back, and places where you think Sentry Ward may be placed. The most important thing is experience. The lack of gold we will compensate with our ultimate later, so try not to die. <br/><br/>And to do that you should buy Boots of Speed – to increase mobility and Medallion of Courage for further ganks and increasing mana regeneration that we will lack for sure.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_weaver",
+        "id": 63,
+        "localized_name": "weaver",
+        "HeroDescription": "Weaver is great for any lane but it’s better to go to mid. First items will be “fast Bottle”: 3x Iron Branch and Tango. First thing we should do when we came to lane is to look into the enemy’s items (if there are items with true sight.) <br/><br/>When we are on the lane we can cast Shukuchi and run to the enemy to deal the damage but we should not be too aggressive. When we have Bottlewe should control runes. Boots of Speed should be upgraded as fast as possible to Power Treads. <br/><br/>When we will get 6th level we can gank our enemies. To make gank more efficient it’s better to go behind the enemy’s back with Shukuchi and attack him. After 2-3 successful ganks Weaver can go back to lane and farm for Linken's Sphere. Ultimate Orb will be the first part that we should get as it’s very useful.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_jakiro",
+        "id": 64,
+        "localized_name": "jakiro",
+        "HeroDescription": "First items: Animal Courier, Observer Ward,Iron Branch, Iron Branch, Iron Branch, Tango. <br/><br/>Jakiro is a support, we of course should farm a little, buy Arcane Boots, but on that all the items we need to play well are over. <br/><br/>As support we should go to easy lane or hard lane with two heroes. If we have another support in team we should spread the purchase of Animal Courier, Observer Ward, Sentry Ward, Smoke of Deceit, and also decide who will pull the creeps and who will harass the hard laner of enemy, so he won’t go far from his tower. <br/><br/>If we play triple against triple we will probably be initiating the fights, or support it, because it will be hard to initiate the fight with Ice Path on first levels. <br/><br/>If after 6-8 minutes we still haven’t ganked any other lane, we should do that. Or maybe gank enemy’s forest. And it’s time to renew Observer Ward. If we used Smoke of Deceit actively it is probably on cool down in shop now, so we will have to use simple Town Portal Scroll for ganks.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_batrider",
+        "id": 65,
+        "localized_name": "batrider",
+        "HeroDescription": "We can play on any lane including the forest. Let’s think that we went mid. First items will be: 3x Iron Branch, Tango. This item build is used to buy fast Bottle. The main goal for Batrider is to earn money and gold. <br/><br/>When we have Bottle we need to control runes (it’s better to have vision at least on one of them so we would know where the rune is) From the first money we will buy Boots of Speed and Magic Wand, and continue our Farm. If we get ganked we should use Flame break near us and fly back with firefly. <br/><br/>After level 6 we have two options: <br/><br/>1) continue farm; <br/><br/>2) go to help our team. <br/><br/>We should gank if our team loses other lanes and they can’t win without us, otherwise we need to farm Blink Dagger. We will be very dangerous after the purchase of Blink Dagger, we can gank any hero, but our main target is carry. <br/><br/>We need to gank him all the time, prevent him from farm and getting experience. During the gank we should use Firefly and then blink towards the enemy and pull him to our team with Lasso, if you fight 1v1 then you need to use Sticky Napalm on him and fly around in Firefly, it’s better to do it from forest that will burn on our way.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_chen",
+        "id": 66,
+        "localized_name": "chen",
+        "HeroDescription": "It’s better to go to forest (we shouldn’t even think of other lanes). <br/><br/>First items: Observer Ward, Sentry Ward, Smoke of Deceit/Animal Courier, 2x Clarity. <br/><br/>If we are the only support in team we will buy Animal Courier instead of Smoke of Deceit, but if there is another support he should get courier and we should buy Smoke of Deceit. <br/><br/>First Observer Ward should be placed to see our forest and rune, and leave all the rest for later. We will take control of fat creep Troll/Ursa/ Centaur and farm woods. We need to upgrade our courier to Flying Courier first, and then get Boots of Speed, after that our main goal is Mekansm. <br/><br/>If we have such opportunity we will take 1-2 creeps and go gank under Smoke of Deceit. But don’t forget to farm.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_spectre",
+        "id": 67,
+        "localized_name": "spectre",
+        "HeroDescription": "We will play with support on easy lane (top for Dire, bottom for Radiant) and on first money we will buy Quelling Blade, 2x Tango, Healing Salve. We need a lot of regeneration because we are weak in early game, and Quelling Blade will help us last hit. <br/><br/>Next item is Power Treads, of course we could choose Phase Boots, but we need attack speed more, and additional 200 HP will be useful in midgame. <br/><br/>If lane harrasing is intolerable we can buy Vanguard. Otherwise we should get Drum of Endurance. <br/><br/>We will buy Bracer and upgrade it to Drum of Endurance, when we will need enough of money. We will increase our attributes and attack/move speed. <br/><br/>We should be careful on lane, play passive and concentrate on farming. <br/><br/>We better take all the kills but in pub that won’t work so we may try to kill heroes with Spectral Dagger. We should always have Town Portal Scrollthat will help us to return to our lane.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_doom_bringer",
+        "id": 69,
+        "localized_name": "doom_bringer",
+        "HeroDescription": "First we should choose the line to go. We can go to mid, to have fast 6-7 level, but it’s better to go on easy lane with support, so we will have access to neutral creeps. <br/><br/>We should get Quelling Blade, Healing Salve and Ring of Protection. We can ask support for some additional regeneration like Tango. <br/><br/>Our goal during first 8-10 minutes is to buy Hand of Midas. We should buy Sage's Mask and our ring will be upgraded to Ring of Basilius. We should turn it off at once, in order not to push the lane. With Ring of Basilius we will have enough mana to use Devour on cooldown. <br/><br/>We might go to woods to find a creep with great abilities. It’s better to choose Alpha wolf to have damage aura and critical hits, or Centaur to have attack speed and mass stun. <br/><br/>The best boots for us is Phase Boots. We get fast move speed with them (works great with Scorched earth) and 24 damage. We should use Devour on creeps with low HP so we won’t push the lane too much, although it will be quite hard if we have eaten a neutral creep with aura. <br/><br/>Hand of Midas should be used on high level creeps, and other should be eaten with Devour, so we will have experience advantage. We should not get in fights on this level, because Doom is carry and he needs some items to be successful.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_ancient_apparition",
+        "id": 68,
+        "localized_name": "ancient_apparition",
+        "HeroDescription": "First items:Smoke of Deceit, Tango, Observer Ward/Sentry Ward, 2x Clarity<br/><br/>In any team it is desirable to have two supports so if you are in one then decide who will get wards and who will buy Courier so everyone would have money left for flasks, clarity etc. <br/><br/>Ancient Apparation has a great potential to create FB, to do that you should buy smoke and with your teammates use it in the forest and go to enemy’s territory, as soon as you see the enemy use Chilling Touch on your carry ( and on some of your allies too if possible) and then just attack the enemy. After that gank we should go back on lane and try to get as much experience as possible but do not steal it from carry. It would be great if you will farm by pulling double spawns in forest. <br/><br/>Do not forget that the effectiveness of Chilling touch reduces with every minute so attack the enemy when you have such an opportunity, but only together with your carry. You will have troubles with mana so you need to buy that Clarity. <br/><br/>After doing couple of frags and farm, we should buy Arcane Boots, and do not forget about wards ( you need to ward runes for mid player, and give vision for your carry by warding the forest around him) <br/><br/>After that you will be useful because of your ultimate and then start getting an Arcane Boots by buying Point Booster.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_ursa",
+        "id": 70,
+        "localized_name": "ursa",
+        "HeroDescription": "It will be very tough to farm the jungle on the level 1, that is why will be better to come on easy line, with one, or two supports, depending on your pick. On the lvl 4-5 you can already go to jungle, leaving the lane to farm for your teammates. <br/><br/>Purchase Stout Shield, if staying on the line will be hard, but if it's not, you can buy Ring of Protection for further Vladmir's Offering. When you purchase it, you already can kill Roshan, but you must chose best time to do this, depend on map control and position of ours Observer Ward, if you have any. <br/><br/>Anyway, you shouldn't go to Roshan without Smoke of Deceit. Also, will be better to bring Town Portal Scroll, than right after you takes Aegis of the Immortal, makes TP on the base, because enemies already know about your location and can easily kill you near the Roshpit. Yeah, maybe they can't do it twice, but lose the Aegis of the Immortal like that – not the better option.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_spirit_breaker",
+        "id": 71,
+        "localized_name": "spirit_breaker",
+        "HeroDescription": "First items should be 2x Gauntlets of Strength, Healing Salve, Tango, 2x Iron Branch. <br/><br/>On this game stage we should focus on killing creeps. We have great attack animation, so it should be easy. <br/><br/>If our ally on the lane has stun, Then after we have Charge of Darkness we should be able to kill enemy without problems and make first blood. <br/><br/>We will need Boots of Speed. After it we should buy Urn of Shadows, as fast as we can. Now we should make couple of ganks, have some charges in our Urn of Shadows, and finish Power Treads.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_gyrocopter",
+        "id": 72,
+        "localized_name": "gyrocopter",
+        "HeroDescription": "We should go on easy lane with 1-2 supports that will protect our farm. First items: 3x Tango, Healing Salve. <br/><br/>Our main goal is farm, but we can try to do FB. The main question is “what items to get?” After we farm a little we should get Magic Wand and Boots of Speed, and later upgrade them to Phase Boots. Now we don’t have the gold to show our full potential so we farm more and save money for Black King Bar.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_alchemist",
+        "id": 73,
+        "localized_name": "alchemist",
+        "HeroDescription": "",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_invoker",
+        "id": 74,
+        "localized_name": "invoker",
+        "Goodwith": "antimage",
+        "GoodDescription": "Tornado>EMP into Mana Void is a very large amount of AoE damage ( 1444 AFTER standard magic resistance reduction if all 3 spells hit). Also, few heroes are as effective at stalling the early pushes that undermine an Antimage draft as a Wex Invoker."
+      },
+      {
+        "name": "npc_dota_hero_silencer",
+        "id": 75,
+        "localized_name": "silencer",
+        "HeroDescription": "First items: Quelling Blade, Stout Shield, Tango<br/><br/>In the beginning alchemist is very weak and he has no escapes or nukes that’s why he needs support. The lane doesn’t matter because we should do the only thing – farm. And the number of supports does not matter as their goal is to guard us and stop enemy from farm. The more is better but we should have at least 1 support. Quelling blade needed because we need to farm more, and have our Greevil’s Greed multiplier opened easier. After we get 500 gold we should buy Gloves of Haste that also will help to last hit. By the 8th minute we should have 1550 gold in our pocket to buy Hand of Midas. As soon as courier will bring us the item we should use it on the biggest creep and get money and needed experience. <br/><br/>Then after getting Power Treads we can go farm forest and leave the lane for our allies to earn gold and experience. By the 15th minute our farm should give us Maelstrom that will increase your farm even more with lightning. <br/><br/>In professional games you may see supports stack ancients for the carry to farm. Alchemist works great for that because his spray reduces the armor and gives damage.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_obsidian_destroyer",
+        "id": 76,
+        "localized_name": "obsidian_destroyer",
+        "HeroDescription": "Don’t think too much about lanes – if there is an opportunity go to mid. <br/><br/>First items: 2x Mantle of Intelligence, Tango, Healing Salve, 2x Iron Branch. <br/><br/>We should farm creeps and control runes, then buy Bottle. On level 2 we may hide enemy in Astral for 1 time, and after level 3 we can do that many times, just don’t use all the mana. <br/><br/>After we got enough gold for Power Treads we will farm for Force Staff. After the purchase we will be more mobile and increase our main attribute - intelligence. <br/><br/>If we went to mid, our goal is to get as much experience fast and go to help our team, and because Sanity’s Eclipse has long cool down (160 seconds) we need to kill on timing, and all the other time spend farming. We should control mini map so we won’t get into a trap. Don’t forget to have Town Portal Scroll with you, to be able to teleport in any second.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_lycan",
+        "id": 77,
+        "localized_name": "lycan",
+        "HeroDescription": "When Lycanthrope lost his ability to farm woods right from the start, we see him on lanes very often. The best choice for us is Easy lane. We should buy Stout Shield, Quelling Blade and Tango. If we learn Summon Wolves on first level, we can check the rune. If we get harassed a lot and have no chance to come closer to creeps, we try to farm with wolves. <br/><br/>First item to get should be Ring of Basilius, and we have 2 choices: <br/><br/>Go to woods if we have no farm on lane. <br/><br/>If we stand good on lane and we have only 1 hero against us we can try to destroy Tier1 tower. <br/><br/>Our main goal is to farm Vladmir's Offering. After we will do that, we should farm Power Treads that usually appear in couple minutes. Now Lycan can slay Roshan easily, and push the lane or gank. But we should not be too aggressive, it’s great if you manage to destroy tier1 and tier2 towers on three lanes, but don’t try to go for tier3.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_brewmaster",
+        "id": 78,
+        "localized_name": "brewmaster",
+        "HeroDescription": "First items: 3x Iron Branch, Tango, Stout Shield<br/><br/>We should not that before you pick Brewmaster in a game you should better go and practice your micro control with bots because not anyone can control 3 elementals in a fight right away. <br/><br/>The most perspective lane choice for us is mid, so after we bought all the needed items we should go to T3 tower and wait for creeps to appear to stop them all the way down the river. This move will give us a little advantage because thus his creeps will come close under our tower and he will have to stand on low ground while we farm the money. <br/><br/>It is possible that we will play against range hero, they are very popular on mid lane, and he will be able to harass us. Stout Shield and Tango were bought for that reason. At the beginning we will need Bottle, so we can stop counting Mana points all the time and spam Clap on our enemy.( it is important to get the Bottle on 2-3 minute of the game so we can use the Rune to fill it up). It is obvious that with bottle you got to control the runes and your supports should help you with that. <br/><br/>After the purchase of Bottle and Boots of Speed, Brew is ready to kill and you should do it as much as possible, especially if you lucky to find good rune (Invisibility, Haste, Double Damage) When we gank we just need to hit our Clap right and then slowed down enemy won’t be able to run away while we punch him with our stick. <br/><br/>Blink Dagger is a very important purchase for us, with it we will be able to initiate fights in any moment. Great last hit skill and stacks in forest, that we may farm with clap, will help you farm the money quick enough. <br/><br/>Because Brew is almost always in the middle of the fight he will get a lot of damage, and in order not to die before the ultimate is available you should get Magic Wand, the use of which will give you some time in fight and you will be able to tank more damage. 15th minute: you need to have dagger, ultimate and the desire to win.<br/><br/>One of the most important sides while playing Brewmaster is use ultimate at right time, and control the elementals. Different things may give you the reason to use ultimate. For example if we fight against multiple enemies, or if we need to survive when enemy focuses our hero, or when we need to chase some enemy etc. If the fight goes as usual then our goal is to get into fight use clap get our enemies drunk with Dranken Haze and use Ultimate. Then we have the chance to get one enemy in the air with Storm Elemental and use rock of Earth panda on the other enemy. Usually that are all the needed actions but if enemy has some summon with a lot of damage you may use Dispel Magic on him with Storm Elemental. And finish him by hitting with Fire panda. <br/><br/>If we loose the fight then we need to run and it would be smart to let the enemy fight with Fire panda while two others use invisibility of Storm Panda and run away, because our hero will appear from one of them after the ultimate ends.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_shadow_demon",
+        "id": 79,
+        "localized_name": "shadow_demon",
+        "HeroDescription": "In pro games Shadow Demon sometimes may go on Mid but more often he is support. We will look closer on that role. We should go with our carry, it’s better to go on top lane for Dire and bottom lane for Radiant. Thus he will farm under tower with no scare of ganks and we can farm in woods. <br/><br/>We will buy Observer Ward, 3x Iron Branch, Tango, Healing Salve, Clarity. Those items will help us on lane and we will be able to exchange damage with enemy and have vision on rune and in woods. <br/><br/>We should try to deny our creeps and harass the enemy if we have such a moment. Disruption should always be ready to save our ally. If we see stuns or disables fly to him we should hide him and after 2 seconds he will retreat. If we will hide the enemy, we can use soul catcher on the Disruption, debuff will work. <br/><br/>Now we will buy Magic Wand, to heal quickly if we need. After that we need to get Power Treads To increase mobility and survivability. <br/><br/>Mekansm is a key item for us till 25-30 minute. We should buy the parts of that item as soon as we can because our gold numbers won’t be big, we can’t afford spending gold for death. Mekansm will also increase our and our team armor. <br/><br/>We should farm on pulls, by taking our creeps into the forest, before pull we need to make double spawn on neutrals so they would kill whole pack of creeps. <br/><br/>Shadow Demon can gank very well because of huge radius of Demonic Purge, you can use it to catch the enemy. Disruption also works well for that matter, so we should ask our mid player to leave invisibility rune for us that is usually a frag. <br/><br/>Observer Ward should be placed to see river and rune. If we can’t see the enemy for a long time, we may get the vision of area with Shadow Poison and scout it.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_lone_druid",
+        "id": 80,
+        "localized_name": "lone_druid",
+        "HeroDescription": "First, we should choose the lane, and it sure will be easy lane where we can farm (Top for Dire and bottom for Radiant). <br/><br/>First items would be: Stout Shield, Quelling Blade, Tango. <br/><br/>Tango we shall put into main hero’s items and Shield with Blade we give to our bear. When we have enough gold we buy Orb of Venom (for the bear). We will get slowdown and the ability to poison the enemy for a very cheap price – it’s very useful item. Now we will buy two Boots of Speed for our both heroes. <br/><br/>If we can’t farm on lane we should stay back and farm with bear, if he has low HP we can send him to the base or summon new one. Do not let your bear die because in that case you will lose health, 300 gold and experience to your enemy. From Boots of Speed that bear has we make Phase Boots and leave ourselves with Boots of Speed. Or we can upgrade it into Power Treads. <br/><br/>First expensive item will be Hand of Midas, to farm faster and increase our bear’s attack speed that will work great with Entangling Claws. With those items we can go and farm woods, and if we got a lot of money on lane, and if there is no one there we can destroy the tower, but keep an eye on the map so you won’t walk into ambush.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_chaos_knight",
+        "id": 81,
+        "localized_name": "chaos_knight",
+        "HeroDescription": "When we go to the lane, we should choose easy lane (top for dire, bottom for radiant), we buy 3х Iron Branch, 2x Gauntlets of Strength, Tango. With those items we will have nice damage, and a lot of HP. Great base damage and attack animation lets us last hit creeps easily. The only trouble that we might face is that we will be harassed by long ranged heroes. But our support should deal with that, who should harass the enemies instead. <br/><br/>On low levels Chaos Knight has very little of mana, that’s why we should use spells only if there is high possibility of killing. We should farm, because we need key items for great playing. <br/><br/>Next item should be Power Treads, starting from Boots of Speed. These boots work great for us, because we need all its abilities. We also need Bracer that will be needed further. <br/><br/>Also we should buy Bracer and then transform it in Drum of Endurance. This item is worth the money paid for it. We should not forget to use it if necessary. Movement speed will save our live not even once and help to chase fleeing enemies<br/><br/>As soon as we get 5th level, we may go gank, because we can stun for 4 seconds. But it’s better to stay and farm more, because gank may not be successful and we will lose time.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_meepo",
+        "id": 82,
+        "localized_name": "meepo",
+        "HeroDescription": "To play better you should set up your character like that. Activate option “Order to all units”. With this option on we can order all the Meepos use Poof just by holding the Ctrl button. <br/><br/>Bind units for the buttons you like to always have control and ability to choose every unit. <br/><br/>Bind button for cyclical change between the units (Tab by default). <br/><br/>Bind button for immediate change the camera onto active unit (space by default). <br/><br/>Don’t think a lot about what lane to choose, our main goal is fast level 6 so we will go to easy lane where no one will be bothering us. <br/><br/>First Items: 3x Iron Branch, Tango, Healing Salve, Ring of Protection. Those items are to farm better and further purchase of Tranquil Boots/ Ring of Basilius. If enemy plays aggressively we can farm with Poof. <br/><br/>If we have a hero with stun or powerful spell with us, we can kill somebody if we will use Earthbind + Poof. As soon as we can, we should buy Tranquil Boots and Ring of Basilius (or just Sage's Mask and Tranquil Boots, and when we will dissolve them we will get Ring of Basilius and vice versa, but this variant takes a lot of time, so we won’t think of it as a main option) <br/><br/>When we have 6th level we have three variants: <br/><br/>1) Leave main Meepo on lane and use clone to farm neutrals with Poof. <br/><br/>2) Push the lane with both Meepos<br/><br/>3) Go to gank enemies. <br/><br/>Everything will depend on the situation. We need to choose the variant when we will receive gold and experience as fast as possible. First item will be Blink Dagger. With it we may start playing aggressively. But if Meepo stayed for farm, 1-2 ganks will be something you should do. To kill the enemy we should teleport near him with Blink Dagger and cast EarthBind, and then use two Meepos and use Poof on that Meepo who initiated the fight.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_treant",
+        "id": 83,
+        "localized_name": "hero_treant",
+        "HeroDescription": "Usually Treant plays solo hard lane (if the enemy has a lot of melee heroes in triple lane, which means that treant may exchange attacks with them well), or he is a support (who can gank with heroes with range disable and just farm on pulls using Living Armor non stop). <br/><br/>You should buy something of those as first items: Stout Shield, as melee hero, 1х Clarity, Tango, Sentry Ward, (if you went to hard lane that will allow you to block the pulls with 1 ward and other may be used to break the enemy's Sentry Ward, that will see us in Nature's Guise), Smoke of Deceit (if we play support role), Animal Courier/Observer Ward (if noone else bought that) и Ring of Protection, that will be upgraded later. <br/><br/>We should controll the map, it is what we need to spend our attention at, because Living Armor used in time may decide who eventually gets a kill. <br/><br/>Our first mini items should be Tranquil Boots and Ring of Basilius. You might ask why do we need boots for regeneration if we already have Living Armor? The problem is that Living Armor won't be enough for everyone, because both teammates and towers needs it, and cooldown is not low. So if we have our own regeneration, we will save at least one charge of Living Armor. And we also need those 90 MS, that will allow us to scout and gank (with invisibility or not) more effectively because of the difference in MS. It is also possible that we cast spells from the invisibilty, which means that it will be hard for enemy to hit us to cancel the speed of boots. There is a variant when you buy Arcane Boots, but that is an expensive item, thats why we compensate mana regeneration with Ring of Basilius. We also have little armor, which means that +7 armor from those items will come in handy. Аnd Magic Wand will help us even more with lack of mana, as you will get stacks.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_ogre_magi",
+        "id": 84,
+        "localized_name": "ogre_magi",
+        "HeroDescription": "As true support we will go to lane with carry. It should be easy lane (top for Dire and bottom for Radiant) so we will have the ability to pull creeps and farm. Our carry should be long ranged hero, because we can’t shoot and harass the enemies. Ogre Magi is more a roamer than a nanny for carry. <br/><br/>We should buy Animal Courier/ Observer Ward, depending on what other support has bought. We also should have 3x Iron Branch, Tango, 2x Clarity. Those items will let us heal mana and HP, and don’t be afraid of enemy. We can have problems with mana because of low intelligence growth. <br/><br/>We will deny creeps on lane, and take experience and gold from the enemy. We should stack neutrals every 54-55 second, so when we will pull them our pack of creeps will die completely and enemy won’t get experience. We should try to pull every time when it’s possible so we will get more gold and experience. But we should be careful, because enemies will find out our plans because they won’t see the creeps on lane. <br/><br/>Now we will buy Magic Wand, and free the slots for needed items. Now our goal is to buy Boots of Speed and Soul Ring. Ring will give us ability to change HP for mana, we should do it right before the using of spell and carefully look for HP amount. <br/><br/>When we will have money we can upgrade Boots of Speed to Arcane Boots, so we can restore mana. Now we are dangerous enough to start gank. <br/><br/>We always should have Town Portal Scroll, to be able to change lanes fast and attack enemies when they don’t wait for us. We should pick targets with low amount of HP, because now we should get advantage in gold and experience, and we should make kills for sure.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_undying",
+        "id": 85,
+        "localized_name": "undying",
+        "HeroDescription": "Undying plays support role on lane, and farms on pulls in forest. That’s why we should go on Easy lane (top for Dire, Bottom for Radiant). <br/><br/>Our items will be Ring of Protection. 2x Iron Branch, Healing Salve и Animal Courier. Those items will be useful in future and we will have the opportunity to heal if something goes wrong. <br/><br/>We need to get Ring of Basilius, by buying Sage's Mask. We should turn on the ring only when we will push the tower, all the other time it should be off, in order not to push the lane too much. <br/><br/>Next item will be Arcane Boots; they will help us with mana, because we have 4 active spells. If we have no hero in team who would be getting Mekansm, we should get it. Mass heal and armor increase always a great choice, and it’s not an expensive item. If enemy team has a lot of magic damage, we should get Hood of Defiance, because we always will be in the middle of the battle. <br/><br/>We should not take farm from our carry; harass enemies with Decay, and Place Tombstone during ally’s ganks, because we don’t have a big chance to kill someone by ourselves, as carry has no items yet. You should practice to place Tombstone well. It’s important to place it not very close to the enemy so we won’t lose it at once, but it should spawn zombies all the time.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_rubick",
+        "id": 86,
+        "localized_name": "rubick",
+        "HeroDescription": "Our main role is a support, but there are exceptions when we play solo lane. We can also farm woods if we play as Radiant. With the help of Telekinesis We stay above the left creeps camp and on 28-58 second throw the biggest creep to ourself and run to the bottom tower. He will have to run close to the tower and to the creeps, that will chase him into the camp. After we farm one camp, creeps will run through camps that are to the right and our goal is just hit neutrals once so creeps start attack. You can do that all the time and you will steal the gold and experience from the enemy hardliner. <br/><br/>If we choose to play on lane then it is better to play double lane because we need to get Spell Steal as fast as possible. Also there is a variant to play triple against triple, and it works quite well, because of big damage decrease from Fade Bolt, we are quite powerfull in the early game. <br/><br/>If we go against triple, (or double like in a pub) then first items to buy will be Healing Salve, Tango, Clarity and Animal Courier/Observer Ward and right from the start go to the shop on the side of lane and wait till you get 15 gold to buy Magic Stick, which makes aggressive lane quite nice decision. The important thing is not to meet the enemy there, Thats why you have to make it fast. <br/><br/>If we think that we will play against solo hero, then we will buy: Tango, 2xClarity, Animal Courier/Observer Ward, 2xIron Branch and Smoke of Deceit, That should be used fast, to gank mid preferrably with another support. <br/><br/>If we bought Observer Ward and we go against triple/double, then if we play for Radiant we need to place one ward to the right of their tower and above the creep camp but not block it. When we play for the Dire, place the ward right on the forest path. Because we need to see if enemy support will try to pull the creeps and in that case we will gank him fast. But if we see that when we try to gank he goes back we are probably in the view of enemy's ward that should be destroyed as soon as we have enough money for sentry.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_disruptor",
+        "id": 87,
+        "localized_name": "disruptor",
+        "HeroDescription": "We should pick the lane to go in the beginning. We should go with carry on easy lane, that’s the best choice. First items will be: Animal Courier, Observer Ward, 2x Clarity, Tango, 3x Iron Branch. We should place Observer Ward on the hill near the closest rune, to control it and also control the ganks. Second ward should be placed to see the forest near enemy’s path so we could see if enemies want to gank us. <br/><br/>If our carry is getting harassed, we can be more aggressive and use Kinetic Field + Thunder Strike, but don’t forget that we don’t have huge mana pool, and it’s better to save it. We should pull neutrals and farm like that, while our carry will farm the lane. <br/><br/>When we will have money we will buy Flying Courier and Boots of Speed. But you have to remember that you earn money only from pulls, don’t take your carry’s farm. <br/><br/>Next item to buy is Bracer, to increase our HP, as we are not very ‘fat’. <br/><br/>Don’t forget to control the map, and notice ganks of enemy’s mid laner, or enemies who want to farm your pull. <br/><br/>If wards that we placed already disappeared, we should renew them, and after level 6 we can go to gank or help our team on another lane. But before that we should upgrade 3x Iron Branch to Magic Wand.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_nyx_assassin",
+        "id": 88,
+        "localized_name": "nyx_assassin",
+        "HeroDescription": "Nyx Assassin is great support or mid laner. <br/><br/>First items of Mid laner: 3x Iron Branch, Tango. <br/><br/>First Items for support: Animal Courier / Observer Ward, Tango,Healing Salve, 3x Iron Branch. <br/><br/>Nyx does not need a lot of items to show his potential but from the other side it’s easier to gank from mid, and there we will get leveled up faster. So we will look at Nyx as mid laner. <br/><br/>This hero works great against Outworld Devourer who from the first levels has a lot of stolen intelligence, that’s why he gets a lot of damage from Mana Burn. <br/><br/>We should be passive on lane, because we can’t harass the enemy and we need whole procast with Vendetta to kill. It’s important to get fast Bottle, to regenerate mana and HP, and save runes. <br/><br/>We will start ganks from 7th level, because now we will kill supports and other fragile heroes who played on other lanes and have 3-5 level with our procast.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_naga_siren",
+        "id": 89,
+        "localized_name": "naga_siren",
+        "HeroDescription": "First of all we should choose the lane. The best choice is easy lane, with one or two supports. It also can be mid lane but only if we will not be against too aggressive hero. <br/><br/>First items: 3х Iron Branch, Tango, Healing Salve и Stout Shield. <br/><br/>Our goal is farm, and we try to last hit as much creeps as possible, but without too much aggression. As soon as we can we should buy Quelling Blade and Poor Man's Shield, that will increase our last hit and will help against harass. <br/><br/>The best boots are Arcane Boots, because we have 4 active spells and we will have mana issues. We should upgrade Iron Branch to Magic Wand, and save all the money for future, we will need a lot of them. <br/><br/>Naga Siren is not the most powerful hero on first levels, so we should avoid fights, and farm more. After 6th Level we can stop to be afraid of ganks because we will have Song of Siren and we can avoid almost any gank with it. If we see that our mider came to gank enemy, we can use Song of Siren to cut the way to run for the enemy.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_keeper_of_the_light",
+        "id": 90,
+        "localized_name": "keeper_of_the_light",
+        "HeroDescription": "We are great support so we will go to easy lane with carry. <br/><br/>First items: Animal Courier, Observer Ward, 2x Clarity, Tango, 2x Iron Branch. <br/><br/>We will place Observer Ward the way so we will see closest rune and path to forest to avoid ganks. Second ward should stay with us. <br/><br/>We should use one Illuminate but we should do it smart: stay in forest behind the trees, s enemy won’t see us and try to hit heroes with Illuminate, but not creeps because don’t want our lane to be pushed a lot. Our main place of action is forest and main way to earn gold and experience is pulling. First money we will spend on Boots of Speed and Bracer – those items will increase our survivability. <br/><br/>If enemies have low HP pool, we can try to kill them with our carry. Our team mate should initiate the fight and deal some damage, after that we will cast illuminate. After 6th level we may push the tower if we need so, or we may continue guarding our carry who should farm all the time. Don’t forget to renew Observer Ward that lasts for 6 minutes. And then upgrade 3x Iron Branch to Magic Wand.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_wisp",
+        "id": 91,
+        "localized_name": "wisp",
+        "HeroDescription": "For the beginning, you need to make sure, so a courier and a wards was be purchased. Ideal for you will be if it will be purchased by second support: some Dazzle or Abaddon. If it's done, you will have 625 of gold, which you must save for the purchasing of Bottle (700 of gold). Also, it will be even better, if you can take a Bounty rune on the first minute of game: that's give us 100 of bonus gold, and we can buy a bottle immediately after that. <br/><br/>Option A: Second support was bought a courier and asking us for wards. You should courteously explain to him, so with bottle you will be much more effective on the first few minutes and you, most likely, can do a first blood through this. So, it will be great, if he will buy a wards to. <br/><br/>Option B: If a teammate was unfriendly and still makes you to buy something, then purchase the courier or the wards. In case of you do this, purchase 3xIron Branch, Tango, Ring of Protection also, and start to save gold for the bottle further. Yes, of course it breaks our plans, but the courier and the wards is more important for our team, you should remember that. <br/><br/>Option C: You haven't another supports. Then you must purchase Observer Ward and Animal Courier. Then you have money left for one bundle of tangoes and ring, which will be upgraded to Tranquil Bootsfurther. <br/><br/>Now it's time to chose your partner, you go to the line together with. In pubs, basically, it's double-lanes, so it's not worth it to try to go to triple-lane with unknown people without communication. Upon arrival to the line, don't try to save Tether – it costs really not a lot of mana. It will cause a moral pressure on your enemies. Provide a maximum protection to your Carry, harass an enemies, or make a pulls.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_visage",
+        "id": 92,
+        "localized_name": "visage",
+        "HeroDescription": "First items: Ring of Protection / Observer Ward / Animal Courier, 2x Clarity, 2x Tango, 3x Iron Branch. <br/><br/>Don’t forget that if we are the only support we should buy Animal Courierinstead of Ring of Protection, or Observer Ward. Later we need to upgrade Ring of Protection to Ring of Basilius. On first levels we need to be close to tower, and better not to take farm from our carry. But later we will be more aggressive. <br/><br/>With our first spell the First Blood won’t be a problem. <br/><br/>With level 6 we will spawn Familiar and go to gank. But don’t forget that our goal is to help team with wards, we are support. They will give us great bonus in map and rune control. The picture shows all the basic places for wards.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_slark",
+        "id": 93,
+        "localized_name": "slark",
+        "HeroDescription": "At the beginning we should buy 3x Iron Branch and Tango. Will you buy Quelling Blade or not depends on your last hit skill. If you have problems with that, you should buy it. Our lane should be mid because we are ganker and we need 6th level fast. <br/><br/>Our first goal is to get Bottle. We need to ask our supports to buy courier so we won’t waste time going to base. Next item will be Power Treads, and turn on Strength, because 150 of HP is better than 8 damage, especially for us. Then we will get Orb of Venom, to gank more effectively. This item will help us to slow down the enemy that is always great. <br/><br/>When we will have 2nd level we should be aggressive and try to harass the enemy. We should take runes on 2nd and 4th minute to prevent enemy from healing with Bottle. Observer Ward will help us do that, and our luck of course. After we have 6th level it’s important to know that enemy has no Observer Ward and we can move fast with Shadow Dance. To do this we should buy Sentry Ward and keep an eye for Shadow Dance icon. If it disappears then we are in vision of enemy, and we should use Sentry Ward to destroy enemy’s Observer Ward.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_medusa",
+        "id": 94,
+        "localized_name": "medusa",
+        "HeroDescription": "Medusa can play in mid, on easy lane, and farm ancient creeps with Split Shot. We will look at ideal variant, when you go to easy lane (top for Dire, bottom for Radiant) with a support. He will harass enemies, and let us last hit creeps. <br/><br/>We will buy 2x Slippers of Agility, 2x Iron Branch, Tango, Healing Salve. Those items are created to compensate our low damage to farm easier. <br/><br/>The order of next items depends on situation. You can get Perseverance. That will help you stop noticing harass and will make us tougher. <br/><br/>After that we will buy Boots of Speed and upgrade them to Power Treads. It is important to learn how to use this item right. (when we farm we use it on agility, in fights we turn it on Strength, and if we need a little more mana for a spell we turn it on intelligence.) Then we will get Magic Wand, because fast Health restore will always be useful, and this item cost is very low. <br/><br/>On lane we should level up couple of levels and harass enemies with Mystic Snake. We should try to send a snake the way it will go on creeps, increase our damage and then jump on to hero. To do that we need to kill some creeps in pack. Stone Gaze we will use only in gank occasions to save our life. It’s very important not to die on this stage so don’t forget to use Mana shield in hard situations.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_troll_warlord",
+        "id": 95,
+        "localized_name": "troll_warlord",
+        "HeroDescription": "We start the game with 3х Iron Branch, Stout Shield, Tango, Healing Salve. Those items will help us stand on lane, and do not be afraid of harass and restore health. <br/><br/>Iron Branch will give us some stats, to last hit creeps easily, and then we will upgrade it to Magic Wand. With this item we will be able to heal in emergency situations. <br/><br/>Stout Shield will be upgraded to Poor Man's Shield, so we will have 6 damage and greater ability to block damage. <br/><br/>We will buy Morbid Mask so we won’t waste money on Tango and Healing Salve. That item will be useful later. For good move speed we will get Boots of Speed and upgrade them to Phase Boots. We will choose those boots to get 24 damage, with our attack speed that is a great addition, and also move speed. <br/><br/>We go to easy lane with support, to have ability to farm without obstacles. This is our goal throughout all the game, because Troll Warlord needs items to be successful in team fights. Support should be a hero, who can save us in hard situations, but we should not be too aggressive, our time is yet to come.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_centaur",
+        "id": 96,
+        "localized_name": "centaur",
+        "HeroDescription": "Centaur can play well both on lanes and in forest. We will think of variant when we play on lane with support or solo, but we won’t take farm from our carry. It’s better to play with hero who has a lot of disables that will help us to make procast on the enemy (like Shadow Shaman, Lion, and Crystal Maiden etc). <br/><br/>We will buy Stout Shield, 3x Iron Branch, Tango, and Healing Salve. Those items will help us to play on lane, by decreasing incoming damage and giving us heal. We will try to last hit creeps but with no aggression, we need to save our HP. <br/><br/>Next we will buy Boots of Speed to increase mobility. Further item depends on our plans for the game, if our team wants to push fast and initiate team fights in early game; we need Blink Dagger, because without it we won’t be too useful. <br/><br/>Magic Wand should be bought as soon as we have spare money. If we play against someone who use a lot of spells (Bristleback, Batrider etc) we should buy that item even before Boots of Speed. <br/><br/>The main goal is to buy Blink Dagger. With that item we may go gank, or farm more but we should always have Town Portal Scroll, because towers are probably still standing, and all the battles will be near them. Keep an eye on the map to use Stampede in time to help our team.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_magnataur",
+        "id": 97,
+        "localized_name": "magnataur",
+        "HeroDescription": "We can play well on every lane, but it’s better to go on hard lane. Why do we need it? <br/><br/>- We have escape, so it won’t be easy to kill us. <br/><br/>- We have great nuke. <br/><br/>- We have a lot of HP, so it won’t be easy to kill us. <br/><br/>- We will give farm for our carry on easy lane and for mid player. <br/><br/>And theoretically we would get very well farmed team + Magnus with his disables, who doesn’t need to do anything but Reverse Polarity and Empower. <br/><br/>So what should we buy for Magnus? At the beginning we should buy Tango and 3x Iron Branch, Healing Salve and 1-2 Clarity. <br/><br/>If we are not confident in our skill or afraid of skilled enemy, we should get Gauntlets of Strength and Stout Shield. We will not upgrade it but we will upgrade Gauntlets of Strength to Bracer and then to Drum of Endurance. <br/><br/>On the lane we should buy Boots of Speed, but we won’t upgrade them, because we need to save money. <br/><br/>We can either play behind the tower and use nuke to last hit creeps or harass enemy, or be more aggressive and provoke enemy to use spells. Even if we will be killed couple of times we should not panic, our strength is in team play and Reverse Polarity.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_shredder",
+        "id": 98,
+        "localized_name": "shredder",
+        "HeroDescription": "The best choice for Timbersaw is easy lane, and it’s better to go there with support. Start items should be: 3x Iron Branch, Tango, Healing Salve, 2x Clarity. If we have support with us, then we take all the farm, and we can do a kill if we have such opportunity( if enemy goes under your tower to kill creeps, or he tries to prevent your support from pulling the creeps) with spells Timber Chain + Whirling Death. <br/><br/>When we have money we get Boots of Speed, and then upgrade them to Arcane Boots, so we can stay more on lane and not run to base if we have low mana. <br/><br/>After we get level 6, we start gang enemies all over the map. First we should use Chakram and then use Timber Chain + Whirling Death in the same direction. With this combination we can easily and quickly kill almost every enemy hero. Such actions should be repeated all the time to prevent your enemy from getting experience and gold. <br/><br/>When we have enough money we should get Perseverance, so we can upgrade it to Bloodstone later.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_bristleback",
+        "id": 99,
+        "localized_name": "bristleback",
+        "HeroDescription": "First Items should be Stout Shield, Gauntlets of Strength, 2xTango. <br/><br/>Bristleback should play solo, and it’s better to go to easy lane. Why? Because on low stages gang is not very effective, that’s why we don’t choose mid. We also need money and experience and if we stand against solo hard from enemy team, we will easily get them. <br/><br/>If we play 1v1 on lane, then we should learn our 1 spell to the max, and spam it on the enemy as Batrider, if we are not able to get to creeps we should max second spell, and if we stand against triple lane, we max 3rd spell.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_tusk",
+        "id": 100,
+        "localized_name": "tusk",
+        "HeroDescription": "First items to get are: Tango, 3x Iron Branch, Healing Salve, Gauntlets of Strength. They will let us stay on lane without troubles, because we will have opportunity to heal and we will have some stats to last hit creeps. Gauntlets of Strength should be upgraded to Bracer, then we get Magic Wand to solve mana issues. <br/><br/>The next item should be Boots of Speed, with further upgrades. We can upgrade it to Power Treads, which will be the most common variant, it will give us attack speed, strength, that let us deal good damage from hits, as long as he is controlled, and in critical situation we can turn it to intelligence and use some spell. <br/><br/>Phase Boots is a choice for gangs and damage. You should use them before snowball and then we will roll much faster. Arcane Boots will be a great choice for new players that cannot control mana well yet. That’s why you should choose the boots depending on your skill and play style. If you farm well, then it’s great to buy Bottle, because we gang a lot and walk besides runes all the time. It will solve our mana issues and will help with health regeneration. You should not get it if you already have Arcane Boots. Medallion of Courage helps us to reduce enemy armor before our ultimate, and in mid and late game, this item will help us to kill Roshan much faster. If you kill a lot on lane, it’s great to buy Urn of Shadows, we will have couple of charges till midgame that will help us with gangs. We should go to lane with support. And if he has lots of control, we can try to kill on level 2. Ice Shards for 5 seconds and snowball will help us out with that. We should decide who should be transported to enemy and who shouldn’t, because if we will take Sniper or Drow Ranger close to them we will hear a lot of bad words.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_skywrath_mage",
+        "id": 101,
+        "localized_name": "skywrath_mage",
+        "HeroDescription": "Best lane for us is mid, because we need to get fast 6th level. <br/><br/>First items: 3x Iron Branch, 3х Clarity, Tango, Healing Salve. With those items our hero will be tougher, and a lot of regenerations will help us farm even in most dangerous situations. After we will buy Bottle we should control runes and harass the enemy with Concussive Shot + Arcane Bolt. <br/><br/>Our goal is to farm Arcane Boots, and start getting Force Staff. We should ask team mates not to push other lanes so we will be able to gank.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_abaddon",
+        "id": 102,
+        "localized_name": "abaddon",
+        "HeroDescription": "We need to think of enemy’s potential for early fights and pick the right lane. If there is no such probability of fights we will go to easy lane (top for Dire bottom for Radiant), to get gold and experience from pulls. If we have aggressive hero we may go to hard lane and kill enemy’s carry. <br/><br/> On first levels we will have problems with mana, so we need to buy Arcane BootsArcane Boots faster, especially on hard lane, because there we will have to use spells all the time. We should try not to die from enemies but from our Mist Coil if there is no other choice. <br/><br/> Next item will be Urn of ShadowsUrn of Shadows that will increase our survivability, mana regeneration, and will restore our HP that we wasted on Mist Coil. Abaddon earns a lot of assists with Aphotic Shield that has nice AoE, so we will have enough charges in Urn of ShadowsUrn of Shadows.",
+        "Goodwith": "axe",
+        "GoodDescription": "Abbadon and Axe will be great couple on the lane. Axe should use Berserker's Call on the enemy to make him attack. Abbadon casts Aphotic shield on the ally to increase his survivability and give damage to the enemy. Abbadon comes close attacks and slows down the enemy that won't let him retreat. Mist coil can be used to finish the kill or if Axe is already lvl 6 - use Culling Blade."
+      },
+      {
+        "name": "npc_dota_hero_elder_titan",
+        "id": 103,
+        "localized_name": "elder_titan",
+        "HeroDescription": "Elder Titan can play on every lane great, but because we do not need items as others do, we should better go with carry and farm woods with pulls, or go to hard lane(up for Radiant, down for Dire), so we can farm with Ancestral Spirit if we cannot go further than tower. <br/><br/>First Items should be: Gauntlets of Strength (that will be upgraded to Bracer, and to Drum of Endurance), 3x Iron Branch, 2x Tango, Healing Salve. Regeneration is always great, and we can share it with our ally so he can save a little bit of gold. <br/><br/>Then we should get Soul Ring that will solve our mana issues, and will allow us to harass enemies with Ancestral Spirit more actively. Then we should get Boots, and choose between Power Treads and Arcane Boots. First ones are better if we want to deal more damage, and second ones are better for being half-support/initiator. In any case in late game you can change Arcane Boots to whatever you need. It can be Power Treads or Boots of Travel. <br/><br/>Then we look on game situation, and if we have a lot of heroes who use spells against us we upgrade Iron Branch to Magic Wand, and then buy Drum of Endurance, if enemy has more melee heroes then we do vice versa. <br/><br/>If something goes wrong and all the area is under fog, we should use Ancestral Spirit to scout the map and save from gangs. It’s great if our team has heroes with mass disables, it will let us use our spells more effectively, do not miss them, because they have delay before the use.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_legion_commander",
+        "id": 104,
+        "localized_name": "legion_commander",
+        "HeroDescription": "Let’s think of variant when we go to forest, to leave the experience and farm on lanes for heroes who need it more. We should buy Stout Shield, Tango, Quelling Blade. <br/><br/>If you see that enemy team might go on triple lane, ask your team to buy you Healing Salve so you won’t be walking in forest with low HP. You should kill the easiest creep camp, and try to do it before next pack should spawn. After that you may go farm harder packs with Moment of Courage. It is very important to get Phase Boots fast, so we will be able to move towards our target during Duel, get 24 damage that works great with our buff and passive spell. <br/><br/>Next item to get is Armlet of Mordiggian. This item will help us win duels in early and mid game. We should try to pick enemies with low HP to kill them easier and get attack bonus or those who are dangerous because of powerful spells, so you will silence them for some time. But you should not try to gank before you get serious items, because you will waste precious time and probably won’t be able to kill.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_ember_spirit",
+        "id": 106,
+        "localized_name": "ember_spirit",
+        "HeroDescription": "First items: Stout Shield, Quelling Blade, Tango. <br/><br/>Xin theoretically can play on any lane and even in forest, but in this guide we will think of Xin playing on easy lane with supports. <br/><br/>Our goal is to farm lane, sometimes going to farm forest, if your supports made some stacks for you, but that happens not very often.We need Phase Boots because we need to be able to get close to the enemy and use Searing Chains on them. <br/><br/>Perseverance will solve our problem with health and mana regen. Which one should we buy first? Ring of Health for health regeneration or Void Stone for mana -depends on line situation.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_earth_spirit",
+        "id": 107,
+        "localized_name": "earth_spirit",
+        "HeroDescription": "First items to buy: Animal Courier/Observer Ward, 2xIron Branch, Tango, Healing Salve, Clarity. <br/><br/>We are great saving support, so if we ill play in triple lane, we should be little bit behind or farming carry. When enemies will try to kill some of your allies you should pull them Geomagnetic Grip and if you need, push them with Boulder Smash towards your tower. <br/><br/>If enemies will attack our hero, than you should push the closest enemy with Boulder Smash and then use Rolling Boulder towards the safe area, and place Stone Remnant on your path to make it longer.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_terrorblade",
+        "id": 109,
+        "localized_name": "terrorblade",
+        "HeroDescription": "First items: Stout Shield, Quelling Blade, Tango. <br/><br/>We should get those items to farm easier on lane. We should use Metamorphosis only in fights that’s why we should concentrate more on melee attacks and last hitting, Quelling Blade will help us a lot with that. <br/><br/>During the farm we will not use a lot of spells, that’s why we don’t really need Ring of Basilius. We should start getting our first serious item – Manta Style, starting from Yasha.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_phoenix",
+        "id": 110,
+        "localized_name": "phoenix",
+        "HeroDescription": "First items will be: 2хGauntlets of Strength, 2хIron Branch, Tango. <br/><br/>Even though Phoenix can play on any lane, and even in the woods, the best choice for him is mid lane, because Icarus needs level and items. That’s the lane we will choose. While playing on lane, you should spam your enemy with Fire Spirits, using it as much as you can. <br/><br/>We need Bottle to renew HP and mana that we will use to throw Fire Spirits and Icarus Dive. After we will buy Bottle we need to control runes. If we are lucky to get Haste rune, or Double Damage you can go and gank.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_oracle",
+        "id": 111,
+        "localized_name": "oracle",
+        "HeroDescription": "If we are the only support in our team we should by Animal Courier, Observer Ward, Tango, 2 Clarity и Iron Branch. Placing wards, helping our carry to farm, harassing the opponents (oracle has very high attack speed and long range), pulling creeps. When enemy trying to finish one of the our creeps, we should cast Fate's Edict on him. Disarm won't allow to make killing. <br/><br/>If our carry has disable abilities we can try to kill line foe by casting stun on him then using Fortune's End (even at first level it can disable enemy for 2.5 sec). Don't forget to by Soul Ring and Magic Wand for our great healing from combo of Fate's Edict + Purifying Flames. Always get the wards. <br/><br/>But if we aren't the only support we can save up some money for more expensive items like Blink Dagger. It's really necessary tool for saving our teammate in critical moments with False Promise. Anyway we should often buy Smoke of Deceit and trying to gank midlane due to our great disable + nuke abilities.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_techies",
+        "id": 105,
+        "localized_name": "techies",
+        "HeroDescription": "There are a huge ton of places, where you can put your bombs and it will be not just borind to describe those places but it will be impossible. Enemies will probably by Sentry Ward from the beginning, to see if there are any mines around them. That's why improvisation is the best way to place mines. Sometimes you need to place them in an unusual spot, and sometimes you may use default spots and wait while enemy tricks himself by thinking too much like (this is so default place that noone puts mines in there no more). But the main thing is to get satisfaction from the battle of your riddles and the smartness of your enemy. <br/><br/>The smoke is our main ally in the game besides all other items. We need to be allover the map, sometimes right under the enemy's nose and we just can't allow our enemy to see us or their wards to see us. And with smoke we can place mines where we need without getting out of smoke and it is easier to go close to the enemy in smoke if you want to kill with a suicide. <br/><br/>Another problem that we face is that we don't level up while we place mines. If the things are not good and we dont get the kills but we get killed we will have to farm creeps with mines on lane while it is free. Our goal is to farm theSoul Ring and at least level 6. After that we dont need to kill creeps. <br/><br/>Another possible problem (with a certain pick) is heroes with summons. The effectiveness of our Land Mines and Stasis Trap will go down if they will hit summons and not heroes. Such spells are: Summon Wolves, Forge Spirit, Summon Spirit Bear, Call of the Wild, Spawn Spiderlings, Demonic Conversion, spawned neutrals, Nature's Call, Necronomicon of the 1st level at least (Summon Familiars, also activate Land Mines and do not activate Stasis Trap, but the fact that they die on mines works on us). You can place your mines not on certain spot but around that spot if you play against them.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_winter_wyvern",
+        "id": 112,
+        "localized_name": "winter_wyvern",
+        "HeroDescription": "Animal Courier/Observer Ward, 2хIron Branch, Tango, Clarity, Ring of Protection/Sentry Ward. <br/><br/>Ring of Protection is for Ring of Basilius, That will give us and teammates some mana regeneration and the most important - additional armor, we have only 1 basic armor. <br/><br/>Town Portal Scroll is or common friend and helper, because we can save teammate with our 3rd spell so keep an eye on the map and try to help your teammates. <br/><br/>Tranquil Boots are not for us because of one simple reason: if we have our first spell, we will do physical damage which means Tranquil Boots will be cancelled. All other boots except Boots of Travel are quite suitable. <br/><br/>Arcane Boots - is the most contraversial variant, even if they seem to be good. The thing is we have intelligence growth = 3.1 and we dont have expensive spells which means we dont need a lot of mana. Of course these boots can be useful for our teammates who have troubles with mana, but in this case it is better than someone else buys these boots. Also they donot help to live longer in fight which is quite good for use because we have second spell with 7 seconds cool down. <br/><br/>Power Treads - the most versatile variant. It will make is tougher and will give us some additional mana just in case. <br/><br/> Phase Boots - will give us the speed that we need. If you understand that there is just now way you can afford Blink Dagger, you can buy these boots.",
+        "Goodwith": "",
+        "GoodDescription": ""
+      },
+      {
+        "name": "npc_dota_hero_arc_warden",
+        "id": 113,
+        "localized_name": "arc_warden",
+        "HeroDescription": "Zet the Arc Warden is a Radiant Agility hero who can be built either as an ability nuker or an attack carry who focuses on single-targets. As you'll soon come to realize,  Zet is the premier ranged Agility pushing hero in mid to late game. Valve has classified  Zet as aCarry,Pusher, andEscape. Curse-Gamepedia classifies him in the same categories as well. Zet's actual name means 'shove', 'push', or 'move' in Dutch - his name is very symbolic of his role. He has 4 active spells, with his ultimate being the real game-changer. It allows him to create a fully autonomous illusion who can use its own items and spells -  Zet is the only hero in the game who can do this ( Meepo seriously got nothin' on you).",
+        "Goodwith": "",
+        "GoodDescription": ""
+      }
+    ]
